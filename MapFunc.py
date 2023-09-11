@@ -1,4 +1,4 @@
- # 2 : Use Map func to add values from 3 list with same index and return 
+ # Use Map func to add values from 3 list with same index and return 
  # a list with sum of all values for a index
 #input_list_1 = [3, 4, 5, 6]
 #input_list_2 = [1, 8, 4, 9]
