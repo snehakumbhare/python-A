@@ -1,14 +1,18 @@
-num = int(input("Enter a number: "))
+n=int(input("Enter a number:"))
+n1=n
+n2=n
+d=len(str(n1))           #typecasting to find the length
+total=0
 
-sum = 0
-temp = num
-while temp > 0:
-   digit = temp % 10
-   sum += digit ** 3
-   temp //= 10
-if num == sum:
-   print(num,"is an Armstrong number")
+while (n!=0):
+    rem=n%10              
+    total=total+(rem**d)
+    n=n//10               #updating n value
+    
+if (n2==total):
+    print(f"{n2} is an armstrong number")
+    
 else:
-   print(num,"is not an Armstrong number")
+    print(f"{n2} is not an armstrong number")
 
           
