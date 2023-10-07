@@ -1,5 +1,9 @@
 #Write a program to print the following pattern.
-
+#A 
+#B B 
+#C C C
+#D D D D
+#E E E E E
 def alphapat(n):
     num = 65
     for i in range(0, n):
