@@ -4,7 +4,7 @@
 #C C C
 #D D D D
 #E E E E E
-def alphapat(n):
+def alphabet(n):
     num = 65
     for i in range(0, n):
         for j in range(0, i+1):
@@ -14,4 +14,4 @@ def alphapat(n):
     
         print("\r")
 n = 5
-alphapat(n)
+alphabet(n)
