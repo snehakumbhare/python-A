@@ -1,5 +1,9 @@
 #Write a program to print the following pattern.
-
+#A 
+#B C 
+#D E F 
+#G H I J 
+#K L M N O 
 
 def contalpha(n):
     num = 65
