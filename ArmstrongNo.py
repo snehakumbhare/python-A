@@ -1,3 +1,4 @@
+#Write a program to print the 
 n=int(input("Enter a number:"))
 n1=n
 n2=n
