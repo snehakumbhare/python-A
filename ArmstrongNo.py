@@ -1,4 +1,4 @@
-#Write a program to print the 
+#Write a program to print the Armstrong No in python 
 n=int(input("Enter a number:"))
 n1=n
 n2=n
