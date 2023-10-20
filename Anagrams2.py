@@ -1,6 +1,6 @@
 #Group Anagrams using Python
-from collections import defaultdict
 
+from collections import defaultdict
 def group_anagrams(a):
     dfdict = defaultdict(list)
     for i in a:
