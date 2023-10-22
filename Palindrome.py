@@ -1,4 +1,5 @@
 #wap to create a function to find palindrome number:
+
 n=int(input("Enter a number:"))
 n1=n
 rev=0
