@@ -1,4 +1,5 @@
 #Digital Clock with Python
+
 from tkinter import Label, Tk 
 import time
 app_window = Tk() 
