@@ -1,5 +1,6 @@
 #Correct Spellings using Python
 #pip install pyspellchecker in your command prompt or terminal
+
 from spellchecker import SpellChecker
 corrector = SpellChecker()
 
