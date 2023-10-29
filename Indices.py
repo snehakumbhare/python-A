@@ -1,4 +1,5 @@
 #Group Elements of Same Indices using Python
+
 inputLists = [[10, 20, 30], [40, 50, 60], [70, 80, 90]]
 outputLists = []
 index = 0
