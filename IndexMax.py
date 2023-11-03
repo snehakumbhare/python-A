@@ -1,4 +1,5 @@
 #Index of Maximum Value in a Python List
+
 def maximum(x):
     maximum_index = 0
     current_index = 1
