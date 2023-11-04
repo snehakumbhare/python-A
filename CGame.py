@@ -1,4 +1,4 @@
-#game with Python
+#Game with Python
 
 from turtle import *
 state = {'turn': 0}
