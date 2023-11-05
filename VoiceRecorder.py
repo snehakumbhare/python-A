@@ -1,6 +1,7 @@
 #Voice Recorder using Python
 #pip install sounddevice
 #pip install SciPy
+
 import sounddevice
 from scipy.io.wavfile import write
 
