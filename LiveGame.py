@@ -1,4 +1,5 @@
 #Lives Game with Python
+
 import random
 lives = 5
 
