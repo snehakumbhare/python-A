@@ -1,5 +1,6 @@
 #Print Colored Text with Python
 #black, red, green, yellow, blue, magenta, cyan, and white.
+
 import colorama
 from colorama import Fore, Back, Style
 colorama.init(autoreset=True)
