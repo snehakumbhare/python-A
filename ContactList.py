@@ -1,4 +1,4 @@
-#Contact List
+#Contact List using Python
 
 import tkinter as tk
 from tkinter import ttk
