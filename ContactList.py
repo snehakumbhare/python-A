@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 #Contact List
 import tkinter as tk
 from tkinter import ttk
