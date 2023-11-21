@@ -1,4 +1,5 @@
 #Python program to find the average of numbers with explanations16
+
 size=int(input("Enter the number of elements you want in array: "))
 arr=[]
 #taking input of the list
