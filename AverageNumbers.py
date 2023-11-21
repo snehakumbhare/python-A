@@ -9,6 +9,7 @@ for i in range(0,size):
 #taking average of the elements of the list
 avg=sum(arr)/size
 print("Average of the array elements is ",avg)
+
 #Enter the number of elements you want in array: 5
 #Please give value for index 0: 9
 #Please give value for index 1: 5
