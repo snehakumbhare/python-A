@@ -1,4 +1,5 @@
 #Email Slicer with Python
+
 email = input("Enter Your Email: ").strip()
 username = email[:email.index("@")]
 domain_name = email[email.index("@")+1:]
