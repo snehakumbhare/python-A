@@ -10,5 +10,6 @@ def decimal_to_octal(decimal):
 decimal = int(input("Please Enter a decimal number: "))
 octal = decimal_to_octal(decimal)
 print("Octal number is ", octal, " for ", decimal)
+
 #Please Enter a decimal number: 157
 #Octal number is  235  for  157
