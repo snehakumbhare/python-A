@@ -1,4 +1,5 @@
 #Python Program to convert Decimal to Octal number
+
 def decimal_to_octal(decimal):
     if decimal == 0:
         return ""
