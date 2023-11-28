@@ -1,4 +1,5 @@
 #Python Program to add two numbers without addition operator
+
 def add_numbers(x, y):
     while y != 0:
         temp = x & y
