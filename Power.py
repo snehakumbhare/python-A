@@ -1,5 +1,6 @@
 #Python program to calculate the power using ‘pow()’ method23
 #taking 2 integer as input from the user
+
 base = int(input("Enter the value for base :"))
 exponent = int(input("Enter the value for exponent :"))
 print(base,"to power ",exponent,"=",end = ' ')
