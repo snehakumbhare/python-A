@@ -1,4 +1,4 @@
-#Python program to calculate the power using ‘for-loop’24
+#Python program to calculate the power using ‘for-loop’
 #taking 3 integer as input from the user
 base = int(input("Enter the value for base :"))
 exponent = int(input("Enter the value for exponent :"))
