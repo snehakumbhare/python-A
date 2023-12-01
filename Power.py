@@ -1,4 +1,4 @@
-#Python program to calculate the power using ‘pow()’ method23
+#Python program to calculate the power using ‘pow()’ method
 #taking 2 integer as input from the user
 
 base = int(input("Enter the value for base :"))
