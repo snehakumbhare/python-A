@@ -1,4 +1,5 @@
 #Python program to calculate the power using ‘while-loop’25
+
 base = int(input("Enter the value for base :"))
 exponent = int(input("Enter the value for exponent :"))
 result=1;
