@@ -10,6 +10,7 @@ while exponent != 0:
     result = base * result
     exponent-=1
 print(result)
+
 #Enter the value for base :5
 #Enter the value for exponent :4
 #5 to power  4 = 625
