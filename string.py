@@ -1,4 +1,5 @@
 #Python Program to Replace First Vowel With ‘-‘ in String
+
 def replace_vowel(string):
     vowels = "AEIOUaeiou"
     for i in range(len(string)):
