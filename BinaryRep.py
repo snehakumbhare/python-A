@@ -10,7 +10,7 @@ while(num>0):
     if num==0:
         print("num is binary") 
         
-        #please give a number : 5
+#please give a number : 5
 #num is not binary
 #please give a number : 1
 #num is binary
