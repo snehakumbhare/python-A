@@ -1,3 +1,4 @@
+#Program to check given number representation is in binary or not
 num = int(input("please give a number : "))
 while(num>0):
     j=num%10
