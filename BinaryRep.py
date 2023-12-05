@@ -9,6 +9,7 @@ while(num>0):
     num=num//10
     if num==0:
         print("num is binary") 
+        
         #please give a number : 5
 #num is not binary
 #please give a number : 1
