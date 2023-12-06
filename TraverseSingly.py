@@ -1,4 +1,5 @@
 #Python Program to create and traverse singly linked list
+
 #Creating node class of the singly linked list  
 class Node:
     def __init__(self, data):
