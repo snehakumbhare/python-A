@@ -60,6 +60,7 @@ s = SinglyLinkedList()
 print("press 1 to add element to the linked list")
 print("press 0 to stop adding the element to the list")
 n=10
+
 #Add elements into the linkedlist.
 while(n!=0):
     print("press 1 to add element to the linked list")
