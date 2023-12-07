@@ -73,6 +73,7 @@ while(n!=0):
     else:
         print("[INVALID INPUT]: try again")
         continue
+      
 #display the elements of the list.
 key = int(input("enter the element to search  into the linked list"))
 
