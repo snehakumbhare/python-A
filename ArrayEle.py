@@ -14,6 +14,7 @@ for i in range(0,2):
     temp=arr[size-1];
     for j in range(size-1,-1,-1):
         arr[j]=arr[j-1]
+        
 # making the last element of the array, the first element
     arr[0]=temp;
 print("Array after performing right rotation :")
