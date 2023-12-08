@@ -1,5 +1,6 @@
 #Python code to perform right rotation on array (list) elements by two positions
 #taking the input from the user to fix the array size
+
 size=int(input("Enter the number of elements you want in array: "))
 arr=[]
 # adding elements to the array (list)
