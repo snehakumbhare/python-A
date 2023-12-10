@@ -1,5 +1,6 @@
 #Python | Multiply all numbers in the list
 # Python program to multiply all values in the
+
 # list using traversal
  
  
