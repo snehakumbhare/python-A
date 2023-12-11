@@ -29,6 +29,9 @@ for r in result:
 #(len(X[0]))] for i in range(len(X))]
 #for r in result:
     #print(r)
-
+#Program to add two matrices
+# using zip()
+#result = [map(sum, zip(*t)) for t in zip(X, Y)]
+  #print(result)  
 
   
