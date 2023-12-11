@@ -27,7 +27,6 @@ for r in result:
 # using list comprehension
 #result = [[X[i][j] + Y[i][j]  for j in range
 #(len(X[0]))] for i in range(len(X))]
-  
 #for r in result:
     #print(r)
 
