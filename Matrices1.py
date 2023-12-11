@@ -30,6 +30,5 @@ for r in result:
 #for r in result:
     #print(r)
 
-#Program to add two matrices
-# using zip()
+
   
