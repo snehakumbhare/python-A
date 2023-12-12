@@ -1,5 +1,4 @@
 # Program to multiply two matrices using list comprehension
-
 # take a 3x3 matrix
 A = [[12, 7, 3],
     [4, 5, 6],
