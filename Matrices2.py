@@ -27,6 +27,5 @@ result= [[0,0,0,0],
         [0,0,0,0]]
  
 result = np.dot(A,B)
- 
 for r in result:
     print(r)
