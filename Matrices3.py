@@ -24,6 +24,7 @@ print("The original list : " + str(test_list))
 # using list comprehension + loop
 # Matrix Product
 res = prod([ele for sub in test_list for ele in sub])
+
 #res = prod(list(chain(*test_list)))
 # print result
 print("The total element product in lists is : " + str(res))
