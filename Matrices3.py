@@ -7,8 +7,7 @@
 #from itertools import chain
 
 # getting Product
- 
- 
+
 def prod(val):
     res = 1
     for ele in val:
