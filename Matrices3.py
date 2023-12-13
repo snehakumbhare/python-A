@@ -2,8 +2,8 @@
 # Python3 code to demonstrate
 # Matrix Product
 # Using list comprehension + loop
- 
- # Using chain() + loop
+
+# Using chain() + loop
 #from itertools import chain
 # getting Product
  
