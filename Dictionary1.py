@@ -18,5 +18,6 @@ res = list(sorted({ele for val in test_dict.values() for ele in val}))
 
 # Using chain() + sorted() + values()
 res = list(sorted(set(chain(*test_dict.values())))) 
+
 # printing result
 print("The unique values list is : " + str(res))
