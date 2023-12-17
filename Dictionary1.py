@@ -3,7 +3,7 @@
 # Extract Unique values dictionary values
 # Using set comprehension + values() + sorted()
 
-from itertools import chain
+#from itertools import chain
 
 # initializing dictionary
 test_dict = {'gfg': [5, 6, 7, 8],
