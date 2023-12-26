@@ -1,4 +1,5 @@
 #Python Program for Linear Search
+
 # Searching an element in a list/array in python
 # can be simply done using \'in\' operator
 # Example:
