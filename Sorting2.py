@@ -30,5 +30,5 @@ if __name__ == '__main__':
     insertionSortRecursive(A, n)
     print(A)
  
-# Contributed by Harsh Valecha,
+
 
