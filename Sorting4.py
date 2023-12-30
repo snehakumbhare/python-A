@@ -1,6 +1,6 @@
 #Python Program for Iterative Quick Sort
+
 # Python program for implementation of Quicksort
- 
 # This function is same in both iterative and recursive
 def partition(arr,l,h):
     i = ( l - 1 )
