@@ -1,8 +1,7 @@
 #Python Program to Create a Lap Timer
 # importing libraries
 import time
- 
- 
+
 # Timer starts
 starttime = time.time()
 lasttime = starttime
