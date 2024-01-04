@@ -3,7 +3,6 @@
 # _importing module
 import re
  
- 
 def check(str, pattern):
  
     # _matching the strings
