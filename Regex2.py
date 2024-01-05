@@ -1,6 +1,5 @@
 #The most occurring number in a string using Regex in python
-# your code goes here# Python program to
-# find the most occurring element
+# Python program to find the most occurring element
 
 import re
 from collections import Counter
