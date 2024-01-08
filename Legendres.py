@@ -26,4 +26,4 @@ def LegendreConjecture( n ):
 n = 50
 LegendreConjecture(n) 
  
-# Contributed by _omg 
+
