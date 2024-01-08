@@ -1,4 +1,5 @@
 #Python Program for Legendre’s Conjecture
+
 # Python program to verify Legendre's Conjecture 
 # for a given n 
  
