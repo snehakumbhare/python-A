@@ -1,6 +1,6 @@
 #Check whether a number has consecutive 0’s in the given base or not
+
 # Python implementation of the above approach
- 
 # We first convert to given base, then
 # check if the converted number has two
 # consecutive 0s or not
