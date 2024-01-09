@@ -4,6 +4,7 @@
 # We first convert to given base, then
 # check if the converted number has two
 # consecutive 0s or not
+
 def hasConsecutiveZeroes(N, K):
     z = toK(N, K)
     if (check(z)):
