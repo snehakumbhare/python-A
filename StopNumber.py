@@ -1,4 +1,5 @@
 #Python Program for Number of stopping station problem
+
 # Python code to calculate number 
 # of ways of selecting \'p\' non  
 # consecutive stations out of  
