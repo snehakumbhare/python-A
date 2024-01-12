@@ -33,4 +33,3 @@ m = len(arr)
 n = 4
 print(count(arr, m, n))
  
-# This code is contributed by Bhavya Jain
