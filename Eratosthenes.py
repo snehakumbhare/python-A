@@ -3,7 +3,6 @@
 # Python program to print all Primes Smaller 
 # than or equal to N using Sieve of Eratosthenes
  
- 
 def SieveOfEratosthenes(num):
     prime = [True for i in range(num+1)]
 # boolean array
