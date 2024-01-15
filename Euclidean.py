@@ -18,7 +18,6 @@ def gcdExtended(a, b):
      
     return gcd,x,y 
      
- 
 # Driver code 
 a, b = 35,15
 g, x, y = gcdExtended(a, b) 
