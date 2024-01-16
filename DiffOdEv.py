@@ -1,4 +1,5 @@
 #Difference between Sums of Odd and Even Digits in Python
+
 # Python program for the above approach
 def isDiff0(n):
     first = 0
