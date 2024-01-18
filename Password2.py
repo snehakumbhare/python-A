@@ -2,8 +2,7 @@
 # Weak in Python using Regex 
  
 import re 
- 
- 
+
 # Function to categorize password 
 def password(v): 
  
