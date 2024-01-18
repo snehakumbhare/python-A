@@ -1,7 +1,6 @@
 # Categorizing password as Strong or 
 # Weak in Python using Regex 
  
- 
 import re 
  
  
