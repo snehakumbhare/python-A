@@ -1,4 +1,5 @@
 #Python – Replace all occurrences of a substring in a string
+
 #code for replacing all occurrences of substring s1 with new string s2
  
 test_str="helloforhello"
