@@ -1,4 +1,5 @@
 #Python – Find all duplicate characters in string
+
 def duplicate_characters(string):
     # Create an empty dictionary
     chars = {}
