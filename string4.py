@@ -1,4 +1,5 @@
 #String slicing in Python to check if a string can become empty by recursive deletion
+
 def checkEmpty(input, pattern):
      
     # If both are empty
