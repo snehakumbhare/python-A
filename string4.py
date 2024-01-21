@@ -26,5 +26,5 @@ def checkEmpty(input, pattern):
 # Driver program
 if __name__ == "__main__":
     input ='HELLHELLOWOW'
-    pattern ='GEEKS'
+    pattern ='HELLOW'
     print (checkEmpty(input, pattern))
