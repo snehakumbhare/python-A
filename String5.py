@@ -1,4 +1,5 @@
 #String slicing in Python to Rotate a String
+
 # Function to rotate string left and right by d length
  
 def rotate(input,d):
