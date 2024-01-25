@@ -12,7 +12,6 @@ def Find(string):
     url = re.findall(regex, string)
     return [x[0] for x in url]
  
- 
 # Driver Code
 string = 'url:https://www.hostinger.com/ https://www.microsoft.com/ and https://www.linux.org/'
 print("Urls: ", Find(string))
