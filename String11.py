@@ -1,7 +1,6 @@
 #Python program to find uncommon words from two Strings
 
 # Python3 program to find a list of uncommon words
- 
 # Function to return all uncommon words
 
 def UncommonWords(A, B):
