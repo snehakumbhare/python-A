@@ -3,8 +3,7 @@
 # Python3 program to find a list of uncommon words
  
 # Function to return all uncommon words
- 
- 
+
 def UncommonWords(A, B):
  
     # count will contain all the word counts
