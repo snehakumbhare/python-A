@@ -25,7 +25,6 @@ def check(string):
     else:
         print("No")
  
- 
 # driver code
 if __name__ == "__main__":
  
