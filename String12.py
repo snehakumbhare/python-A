@@ -5,7 +5,6 @@
 # function for checking the
 # string is accepted or not
  
- 
 def check(string):
  
     # set function convert string
