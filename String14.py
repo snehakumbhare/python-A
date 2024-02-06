@@ -1,7 +1,6 @@
 #Python program for removing i-th character from a string
 # Python3 program for removing i-th 
 # indexed character from a string 
-  
 # Removes character at index i 
   
   
