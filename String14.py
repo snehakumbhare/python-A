@@ -3,7 +3,6 @@
 # indexed character from a string 
 # Removes character at index i 
   
-  
 def remove(string, i): 
   
     # Characters before the i-th indexed 
