@@ -4,7 +4,6 @@
  
 # function find string greater than length k
  
- 
 def string_k(k, str):
  
     # create the empty string
