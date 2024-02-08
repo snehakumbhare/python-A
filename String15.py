@@ -1,7 +1,6 @@
 #Find words which are greater than given length k
 # Python program to find all string
 # which are greater than given length k
- 
 # function find string greater than length k
  
 def string_k(k, str):
