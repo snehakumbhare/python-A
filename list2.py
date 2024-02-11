@@ -1,7 +1,6 @@
 #Python Program to Swap Two Elements in a List
 # Python3 program to swap elements
 # at given positions
- 
 # Swap function
 def swapPositions(list, pos1, pos2):
      
