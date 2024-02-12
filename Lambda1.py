@@ -1,4 +1,5 @@
 #Lambda with if but without else in Python
+
 # Lambda function with if but without else.
 # square = lambda x : x*x if(x > 0) 
  
