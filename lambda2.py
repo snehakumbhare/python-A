@@ -5,7 +5,6 @@
 # using Lambda expression and reduce function
  
 from functools import reduce
- 
 def oddTimes(input):
      # write lambda expression and apply
      # reduce function over input list
