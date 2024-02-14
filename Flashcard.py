@@ -1,4 +1,5 @@
 #Python program to build flashcard using class in Python
+
 class flashcard:
     def __init__(self, word, meaning):
         self.word = word
