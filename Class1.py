@@ -1,6 +1,7 @@
 #Write a Python class Employee with attributes like emp_id, 
 # emp_name, emp_salary, and emp_department and methods like calculate_emp_salary, 
 # emp_assign_department, and print_employee_details.
+
 class Employee:
     def __init__(self, name, emp_id, salary, department):
         self.name = name
