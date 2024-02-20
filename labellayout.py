@@ -15,5 +15,6 @@ label3 = tk.Label(parent, text="C++ Exercises", padx=25, pady=10)
 label1.pack(side="top")
 label2.pack(side="top")
 label3.pack(side="top")
+
 # Run the Tkinter main loop
 parent.mainloop()
