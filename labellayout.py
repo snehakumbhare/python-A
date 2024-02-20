@@ -5,6 +5,7 @@ import tkinter as tk
 # Create the main Tkinter window
 parent = tk.Tk()
 parent.title("Vertical Labels with Pack")
+
 # Create three label widgets
 label1 = tk.Label(parent, text="Python Exercises", padx=25, pady=10)
 label2 = tk.Label(parent, text="Java Exercises", padx=25, pady=10)
