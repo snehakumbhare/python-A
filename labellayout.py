@@ -1,6 +1,7 @@
 #Create a vertical label layout in Python Tkinter
 
 import tkinter as tk
+
 # Create the main Tkinter window
 parent = tk.Tk()
 parent.title("Vertical Labels with Pack")
