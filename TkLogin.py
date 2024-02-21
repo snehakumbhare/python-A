@@ -35,5 +35,6 @@ password_label.grid(row=1, column=0, padx=10, pady=5, sticky="E")
 password_entry.grid(row=1, column=1, padx=10, pady=5)
 login_button.grid(row=2, column=0, columnspan=2, padx=10, pady=10)
 login_status.grid(row=3, column=0, columnspan=2, padx=10, pady=5)
+
 # Run the Tkinter main loop
 parent.mainloop()
