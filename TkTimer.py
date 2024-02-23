@@ -56,6 +56,7 @@ seconds_entry.insert(0, "0")
 # Create and place timer label
 timer_label = tk.Label(parent, text="00:00", font=("Helvetica", 48))
 timer_label.grid(row=2, columnspan=2)
+
 # Create and place start and stop buttons
 start_button = ttk.Button(parent, text="Start", command=start_timer)
 start_button.grid(row=3, column=0)
