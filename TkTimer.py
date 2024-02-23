@@ -36,6 +36,7 @@ def stop_timer():
     timer_label.config(text="00:00")
     start_button.config(state="active")
     stop_button.config(state="disabled")
+    
 # Create the main window
 parent = tk.Tk()
 parent.title("Timer Application")
