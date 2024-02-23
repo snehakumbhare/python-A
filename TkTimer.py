@@ -65,5 +65,6 @@ stop_button.grid(row=3, column=1)
 
 # Initialize the remaining time
 remaining_time = 0
+
 # Start the Tkinter event loop
 parent.mainloop()
