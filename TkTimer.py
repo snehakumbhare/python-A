@@ -61,6 +61,7 @@ start_button = ttk.Button(parent, text="Start", command=start_timer)
 start_button.grid(row=3, column=0)
 stop_button = ttk.Button(parent, text="Stop", command=stop_timer, state="disabled")
 stop_button.grid(row=3, column=1)
+
 # Initialize the remaining time
 remaining_time = 0
 # Start the Tkinter event loop
