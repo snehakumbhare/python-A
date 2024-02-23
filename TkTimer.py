@@ -52,6 +52,7 @@ seconds_label.grid(row=1, column=0)
 seconds_entry = tk.Entry(parent)
 seconds_entry.grid(row=1, column=1)
 seconds_entry.insert(0, "0")
+
 # Create and place timer label
 timer_label = tk.Label(parent, text="00:00", font=("Helvetica", 48))
 timer_label.grid(row=2, columnspan=2)
