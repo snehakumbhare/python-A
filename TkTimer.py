@@ -40,6 +40,7 @@ def stop_timer():
 # Create the main window
 parent = tk.Tk()
 parent.title("Timer Application")
+
 # Create and place input fields for minutes and seconds
 minutes_label = tk.Label(parent, text="Minutes:")
 minutes_label.grid(row=0, column=0)
