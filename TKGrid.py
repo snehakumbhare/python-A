@@ -12,6 +12,7 @@ label3 = tk.Label(parent, text="Label 3", padx=10, pady=5, bg="lightyellow")
 
 # Create a button
 button = tk.Button(parent, text="Click Me", padx=10, pady=5, bg="orange", command=parent.quit)
+
 # Use the Grid geometry manager to arrange widgets
 label1.grid(row=0, column=0)
 label2.grid(row=0, column=1)
