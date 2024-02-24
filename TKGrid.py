@@ -18,5 +18,6 @@ label1.grid(row=0, column=0)
 label2.grid(row=0, column=1)
 label3.grid(row=1, column=0, columnspan=2)
 button.grid(row=2, column=0, columnspan=2)
+
 # Run the Tkinter main loop
 parent.mainloop()
