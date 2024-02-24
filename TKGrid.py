@@ -1,5 +1,6 @@
 #Organize widgets with Python Tkinter's grid manager
 import tkinter as tk
+
 # Create the main Tkinter window
 parent = tk.Tk()
 parent.title("Widgets with Grid")
