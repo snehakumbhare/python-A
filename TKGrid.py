@@ -4,6 +4,7 @@ import tkinter as tk
 # Create the main Tkinter window
 parent = tk.Tk()
 parent.title("Widgets with Grid")
+
 # Create label widgets
 label1 = tk.Label(parent, text="Label 1", padx=10, pady=5, bg="lightblue")
 label2 = tk.Label(parent, text="Label 2", padx=10, pady=5, bg="lightgreen")
