@@ -1,4 +1,5 @@
 #Create a chat application interface with Python Tkinter
+
 import tkinter as tk
 
 # Function to send a message
