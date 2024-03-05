@@ -1,4 +1,5 @@
 #Create a dashboard with Python and Tkinter
+
 import tkinter as tk
 from tkinter import ttk
 import random
