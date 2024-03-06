@@ -1,4 +1,5 @@
 #Python Tkinter message widget: Multi-line text with word wrapping made easy
+
 import tkinter as tk
 parent = tk.Tk()
 parent.title("Message Widget Example")
