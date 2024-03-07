@@ -18,6 +18,7 @@ spinbox.pack(padx=20, pady=20)
 # Create a button to get the selected value
 get_value_button = tk.Button(parent, text="Get Selected Value", command=update_value)
 get_value_button.pack()
+
 # Create a label to display the selected value
 result_label = tk.Label(parent, text="", font=("Helvetica", 10))
 result_label.pack()
