@@ -1,4 +1,5 @@
 #Python Tkinter: Creating a custom input dialog
+
 import tkinter as tk
 from tkinter import simpledialog
 
