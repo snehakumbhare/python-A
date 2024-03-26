@@ -1,4 +1,5 @@
 #Building a paint application with Python and Tkinter
+
 import tkinter as tk
 
 # Global variables to track drawing state
