@@ -1,4 +1,5 @@
 #Creating a line graph with Python and Tkinter's canvas
+
 import tkinter as tk
 
 # Sample data points (x, y)
