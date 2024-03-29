@@ -1,4 +1,5 @@
 #Building a whiteboard application with Python and Tkinter
+
 import tkinter as tk
 
 class WhiteboardApp:
