@@ -1,4 +1,5 @@
 #Creating a bouncing ball animation with Python and Tkinter
+
 import tkinter as tk
 
 # Constants for the canvas size
