@@ -1,4 +1,3 @@
-
 #Create a Mandelbrot Fractal image with Python and Tkinter
 import tkinter as tk
 
