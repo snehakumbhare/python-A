@@ -1,4 +1,5 @@
 #Python Tkinter canvas shape editor: Drawing and manipulating shapes
+
 import tkinter as tk
 class ShapeEditorApp:
     def __init__(self, root):
