@@ -1,4 +1,5 @@
 #Python Tkinter arrow Key game - Character movement example
+
 import tkinter as tk
 
 # Constants for character size and movement step
