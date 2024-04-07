@@ -1,4 +1,5 @@
 #Python Function: Printing arguments with *args
+
 # Define the ellipsis constant
 var1 = ...
 
