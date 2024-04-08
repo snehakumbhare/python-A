@@ -5,6 +5,7 @@ from datetime import date
 
 import requests
 BASE_URL = "https://api.carbonintensity.org.uk/intensity"
+
 # Emission in the last half hour
 def fetch_last_half_hour() -> str:
     last_half_hour = requests.get(BASE_URL).json()["data"][0]
