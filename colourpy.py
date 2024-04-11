@@ -1,4 +1,5 @@
 #Python: Display the first and last colors from a given list
+
 # Create a list called 'color_list' containing color names
 color_list = ["Red", "Green", "White", "Black"]
 # Print the first and last elements of the 'color_list' using string formatting
