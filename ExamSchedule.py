@@ -1,4 +1,5 @@
 #Python: Display a sample examination schedule
+
 # Define a tuple called 'exam_st_date' containing the exam start date in the format (day, month, year)
 exam_st_date = (11, 12, 2024)
 
