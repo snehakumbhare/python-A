@@ -1,4 +1,5 @@
 #Python: Function that takes a sequence of numbers and determines whether all are different from each other
+
 # Define a function named test_distinct that takes a list 'data' as a parameter.
 def test_distinct(data):
     # Check if the length of the list is equal to the length of the set created from the list.
