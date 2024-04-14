@@ -1,4 +1,5 @@
 #Python: Remove and print every third number from a list of numbers until the list becomes empty
+
 # Define a function named 'remove_nums' that takes a list 'int_list' as a parameter.
 def remove_nums(int_list):
     # Set the starting position for removal to the 3rd element (0-based index).
