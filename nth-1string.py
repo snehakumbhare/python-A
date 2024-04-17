@@ -1,4 +1,5 @@
 #Python: Check the nth-1 string is a proper substring of nth string of a given list of strings
+
 #Write a  Python program to check the nth-1 string is a proper substring of the nth string in a given list of strings.
 # License: https://bit.ly/3oLErEI
 
