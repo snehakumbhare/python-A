@@ -1,6 +1,7 @@
 #Python: Find a list of one hundred integers between 0 and 999 which all differ by ten from one another
 
-#Write a  Python program to test a list of one hundred integers between 0 and 999, which all differ by ten from one another. Return True otherwise False.
+#Write a  Python program to test a list of one hundred integers between 0 and 999, 
+#which all differ by ten from one another. Return True otherwise False.
 
 # Define a function named 'test' that takes a list 'li' as input
 def test(li):
