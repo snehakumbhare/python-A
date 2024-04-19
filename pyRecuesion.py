@@ -1,6 +1,7 @@
 #Python Data Structures and Algorithms - Recursion: Sum of a list of numbers
 
 #Write a Python program to calculate the sum of a list of numbers using recursion.
+
 # Define a function named list_sum that takes a list of numbers as input
 def list_sum(num_List):
     # Check if the length of the input list is 1
