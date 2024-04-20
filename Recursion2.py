@@ -2,6 +2,7 @@
 
 # Define a function named to_string that converts a number 'n' to a string representation
 # in a given 'base' using a character set "0123456789ABCDEF"
+
 def to_string(n, base):
     # Define a character set for the conversion in hexadecimal format
     conver_tString = "0123456789ABCDEF"
