@@ -1,4 +1,5 @@
 #Python Data Structures and Algorithms - Recursion: List sum
+
 # Define a function named recursive_list_sum that calculates the sum of elements in a nested list
 def recursive_list_sum(data_list):
     # Initialize a variable 'total' to store the cumulative sum
