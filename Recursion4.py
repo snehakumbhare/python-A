@@ -1,4 +1,5 @@
 #Python Data Structures and Algorithms - Recursion: Factorial of a non-negative integer
+
 #Write a Python program to get the factorial of a non-negative integer using recursion.
 # Define a function named factorial that calculates the factorial of a given number 'n'
 def factorial(n):
