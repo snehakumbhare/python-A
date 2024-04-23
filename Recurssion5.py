@@ -1,4 +1,5 @@
 #Python Data Structures and Algorithms - Recursion: Fibonacci sequence
+
 # Define a function named fibonacci that calculates the nth Fibonacci number
 def fibonacci(n):
     # Check if n is 1 or 2 (base cases for Fibonacci)
