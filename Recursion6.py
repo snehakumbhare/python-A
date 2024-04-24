@@ -1,4 +1,5 @@
 #Python Data Structures and Algorithms - Recursion: Sum of a non-negative integer
+
 # Define a function named sumDigits that calculates the sum of the digits of a given number 'n'
 def sumDigits(n):
     # Check if 'n' is 0 (base case for summing digits)
