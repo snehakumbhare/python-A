@@ -1,6 +1,7 @@
 #Python Data Structures and Algorithms - Recursion: Sum of n+(n-2)+(n-4)...
 
 # Define a function named sum_series that calculates the sum of a series of numbers
+
 def sum_series(n):
     # Check if 'n' is less than 1 (base case for the series)
     if n < 1:
