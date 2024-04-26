@@ -1,6 +1,7 @@
 #Python Data Structures and Algorithms - Recursion: Calculate the harmonic sum
 
 #Write a Python program to calculate the sum of harmonic series upto n terms.
+
 # Define a function named harmonic_sum that calculates the harmonic sum up to 'n' terms
 def harmonic_sum(n):
     # Check if 'n' is less than 2 (base case for the harmonic sum)
