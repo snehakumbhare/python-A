@@ -1,4 +1,5 @@
 #Python Data Structures and Algorithms - Recursion: Calculate the geometric sum
+
 # Define a function named geometric_sum that calculates the geometric sum up to 'n' terms
 def geometric_sum(n):
     # Check if 'n' equals 0, which is the base case for the geometric sum
