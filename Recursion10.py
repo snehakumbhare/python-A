@@ -3,6 +3,7 @@
 #Write a  Python program to calculate the value of 'a' to the power of 'b' using recursion.
 
 # Define a function named power that calculates the result of 'a' raised to the power of 'b'
+
 def power(a, b):
     # Check if 'b' is 0 (base case for power function)
     if b == 0:
