@@ -1,4 +1,5 @@
 #Python Data Structures and Algorithms - Recursion: Calculate the value of 'a' to the power 'b'
+
 #Write a  Python program to calculate the value of 'a' to the power of 'b' using recursion.
 # Define a function named power that calculates the result of 'a' raised to the power of 'b'
 def power(a, b):
