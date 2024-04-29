@@ -1,6 +1,7 @@
 #Python Data Structures and Algorithms - Recursion: gcd of two integers
 
 #Write a  Python program to find the greatest common divisor (GCD) of two integers using recursion.
+
 # Define a function named Recurgcd that calculates the greatest common divisor (GCD)
 # of two numbers 'a' and 'b' using recursion and the Euclidean algorithm
 def Recurgcd(a, b):
