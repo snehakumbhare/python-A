@@ -1,4 +1,5 @@
 #Python Exercise: Create a tuple
+
 #Write a  Python program to create a tuple.
 # Create an empty tuple and assign it to the variable 'x'
 x = ()
