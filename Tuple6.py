@@ -1,6 +1,7 @@
 #Python Exercise: Create a tuple with numbers, and display a member
 
 #Write a  Python program to create a tuple of numbers and print one item.
+
 # Create a tuple containing a sequence of numbers
 tuplex = 5, 10, 15, 20, 25
 # Print the contents of the 'tuplex' tuple
