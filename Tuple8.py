@@ -1,4 +1,5 @@
 #Python Exercise: Tuple to a string
+
 #Write a  Python program to convert a tuple to a string.
 # Create a tuple containing individual characters
 tup = ('e', 'x', 'e', 'r', 'c', 'i', 's', 'e', 's')
