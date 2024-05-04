@@ -1,4 +1,5 @@
 #Python Exercise: Colon of a tuple
+
 #Write a Python program to create the colon of a tuple.
 # Import the 'deepcopy' function from the 'copy' module
 from copy import deepcopy
