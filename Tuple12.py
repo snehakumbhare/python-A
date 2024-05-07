@@ -1,6 +1,7 @@
 #Python Exercise: Convert a tuple to a dictionary
 
 #Write a  Python program to convert a tuple to a dictionary.
+
 # Create a tuple containing nested tuples, where each inner tuple consists of two elements.
 tuplex = ((2, "w"), (3, "r"))
 
