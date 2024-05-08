@@ -1,4 +1,5 @@
 #Python Exercise: Unzip a list of tuples into individual lists
+
 #Write a  Python program to unzip a list of tuples into individual lists.
 # Create a list of tuples, where each tuple contains two elements.
 l = [(1, 2), (3, 4), (8, 9)]
