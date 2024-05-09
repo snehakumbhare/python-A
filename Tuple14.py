@@ -1,6 +1,7 @@
 #Python Exercise: Converting a list of tuples into a dictionary
 
 #Write a  Python program to convert a list of tuples into a dictionary.
+
 # Create a list of tuples where each tuple contains two elements, a character and a number.
 l = [("x", 1), ("x", 2), ("x", 3), ("y", 1), ("y", 2), ("z", 1)]
 
