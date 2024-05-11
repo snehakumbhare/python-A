@@ -1,6 +1,7 @@
 #Python Exercise: Print a tuple with string formatting
 
 #Write a Python program to print a tuple with string formatting.
+
 # Create a tuple containing three numbers
 t = (100, 200, 300)
 
