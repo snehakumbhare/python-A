@@ -1,4 +1,5 @@
 #Python Exercise: Replace last value of tuples in a list
+
 #Write a  Python program to replace the last value of tuples in a list.
 # Create a list of tuples, where each tuple contains three numbers.
 l = [(10, 20, 40), (40, 50, 60), (70, 80, 90)]
