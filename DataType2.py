@@ -1,6 +1,7 @@
 #Python: Multiply all the items in a list
 
 #Write a Python program to multiply all the items in a list.
+
 # Define a function called multiply_list that takes a list 'items' as input
 def multiply_list(items):
     # Initialize a variable 'tot' to store the product of the numbers, starting with 1
