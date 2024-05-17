@@ -1,6 +1,7 @@
 #Python: Get the largest number from a list
 
 #Write a Python program to get the largest number from a list.
+
 # Define a function called max_num_in_list that takes a list 'list' as input
 def max_num_in_list(list):
     # Initialize a variable 'max' with the first element of the input list as the initial maximum
