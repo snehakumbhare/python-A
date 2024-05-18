@@ -1,6 +1,7 @@
 #Python: Get the smallest number from a list
 
 #Write a Python program to get the smallest number from a list.
+
 # Define a function called smallest_num_in_list that takes a list 'list' as input
 def smallest_num_in_list(list):
     # Initialize a variable 'min' with the first element of the input list as the initial minimum
