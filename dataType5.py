@@ -1,5 +1,6 @@
 #Python: Count the number of strings where the string length is 2 or more and
 #  the first and last character are same from a given list of strings
+
 #Write a  Python program to count the number of strings from a given list of strings.
 #  The string length is 2 or more and the first and last characters are the same.
 # Define a function called match_words that takes a list of words 'words' as input
