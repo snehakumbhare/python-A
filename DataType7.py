@@ -1,6 +1,7 @@
 #Python: Remove duplicates from a list
 
 #Write a Python program to remove duplicates from a list.
+
 # Define a list 'a' with some duplicate and unique elements
 a = [10, 20, 30, 20, 10, 50, 60, 40, 80, 50, 40]
 
