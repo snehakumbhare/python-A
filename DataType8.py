@@ -1,4 +1,5 @@
 #Python: Check a list is empty or not
+
 #Write a  Python program to check if a list is empty or not.
 # Create an empty list 'l'
 l = []
