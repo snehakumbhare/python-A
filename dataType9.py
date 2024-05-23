@@ -1,4 +1,5 @@
 #Python: Clone or copy a list
+
 #Write a Python program to clone or copy a list.
 # Create a list 'original_list' with some elements
 original_list = [10, 22, 44, 23, 4]
