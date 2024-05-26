@@ -1,6 +1,7 @@
 #Python: Takes two lists and returns True if they have at least one common member
 
 #Write a  Python function that takes two lists and returns True if they have at least one common member.
+
 # Define a function called 'common_data' that takes two lists, 'list1' and 'list2', as input
 def common_data(list1, list2):
     # Initialize a variable 'result' to False to indicate no common elements initially
