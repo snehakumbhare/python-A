@@ -1,6 +1,7 @@
 #Python: Print a list after removing specified elements
 
 #Write a  Python program to print a specified list after removing the 0th, 4th and 5th elements.
+
 # Create a list 'color' with several color strings
 color = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 
