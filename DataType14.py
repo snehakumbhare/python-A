@@ -1,6 +1,7 @@
 #Python: Print the numbers of a specified list after removing even numbers from it
 
 #Write a  Python program to print the numbers of a specified list after removing even numbers from it.
+
 # Create a list 'num' containing several integer values
 num = [7, 8, 120, 25, 44, 20, 27]
 
