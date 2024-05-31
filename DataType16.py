@@ -1,6 +1,7 @@
 #Python: Generate and print a list of first and last 5 elements where the values are square of numbers between two numbers
 
-#Write a  Python program to generate and print a list of the first and last 5 elements where the values are square numbers between 1 and 30 (both included).
+#Write a  Python program to generate and print a list of the first and last 5 elements
+#where the values are square numbers between 1 and 30 (both included).
 
 # Define a function named printValues
 def printValues():
