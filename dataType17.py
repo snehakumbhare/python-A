@@ -1,4 +1,5 @@
 #Python Exercises: Check if each number is prime in a list of numbers
+
 #Write a  Python program to check if each number is prime in a given list of numbers. Return True if all numbers are prime otherwise False.
 # Define a function named 'test' that takes a list 'nums' as a parameter
 def test(nums):
