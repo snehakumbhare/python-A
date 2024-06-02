@@ -1,6 +1,7 @@
 #Python: Generate all permutations of a list in Python
 
 #Write a  Python program to generate all permutations of a list in  Python.
+
 # Import the 'itertools' module, which provides various functions for working with iterators
 import itertools
 
