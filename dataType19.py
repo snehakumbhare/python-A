@@ -1,6 +1,7 @@
 #Python: Difference between the two lists
 
 #Write a  Python program to calculate the difference between the two lists.
+
 # Define a list 'list1' containing numbers
 list1 = [1, 3, 5, 7, 9]
 
