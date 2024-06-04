@@ -1,4 +1,5 @@
 #Python: Access the index of a list
+
 #Write a  Python program to access the index of a list.
 # Define a list 'nums' containing a sequence of numbers
 nums = [5, 15, 35, 8, 98]
