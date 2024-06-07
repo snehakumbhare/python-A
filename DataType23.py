@@ -1,6 +1,7 @@
 #Python: Flatten a shallow list
 
 #Write a  Python program to flatten a shallow list.
+
 # Import the 'itertools' module, which provides various functions for working with iterators
 import itertools
 
