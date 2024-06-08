@@ -1,6 +1,7 @@
 #Python: Append a list to the second list
 
 #Write a  Python program to append a list to the second list.
+
 # Define a list 'list1' containing numeric elements
 list1 = [1, 2, 3, 0]
 
