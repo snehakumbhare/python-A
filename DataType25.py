@@ -1,4 +1,5 @@
 #Python: Select an item randomly from a list
+
 #Write a  Python program to select an item randomly from a list.
 
 #Use random.choice() to get a random element from a given list.
