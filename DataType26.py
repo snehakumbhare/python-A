@@ -1,6 +1,7 @@
 #Python: Check whether two lists are circularly identical
 
 #Write a Python program to check whether two lists are circularly identical.
+
 # Define three lists: list1, list2, and list3, each containing a sequence of numbers
 list1 = [10, 10, 0, 0, 10]
 list2 = [10, 10, 10, 0, 0]
