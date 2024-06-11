@@ -1,4 +1,5 @@
 #Python: Find the second smallest number in a list
+
 #Write a Python program to find the second smallest number in a list.
 # Define a function named 'second_smallest' that takes a list of numbers 'numbers' as a parameter
 def second_smallest(numbers):
