@@ -1,4 +1,5 @@
 #Python: Get unique values from a list
+
 #Write a  Python program to get unique values from a list.
 # Define a list 'my_list' containing multiple numbers, including duplicates
 my_list = [10, 20, 30, 40, 20, 50, 60, 40]
