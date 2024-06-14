@@ -1,6 +1,7 @@
 #Python: Get the frequency of the elements in a list
 
 #Write a  Python program to get the frequency of elements in a list.
+
 # Import the 'collections' module, which provides specialized container data types
 import collections
 
