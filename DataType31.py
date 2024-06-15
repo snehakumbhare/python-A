@@ -1,4 +1,5 @@
 #Python: Count the number of elements in a list within a specified range
+
 #Write a Python program to count the number of elements in a list within a specified range.
 # Define a function named 'count_range_in_list' that counts the number of elements within a specified range
 def count_range_in_list(li, min, max):
