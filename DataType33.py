@@ -1,6 +1,7 @@
 #Python: Generate all sublists of a list
 
 #Write a  Python program to generate all sublists of a list.
+
 # Import the 'combinations' function from the 'itertools' module, which is used to generate combinations
 
 from itertools import combinations
