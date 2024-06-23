@@ -1,4 +1,5 @@
 #Python: Get variable unique identification number or string
+
 #Write a  Python program to get a variable with an identification number or string.
 # Define a variable 'x' and set its value to 100
 x = 100
