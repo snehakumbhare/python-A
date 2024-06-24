@@ -1,4 +1,5 @@
 #Python: Find common items from two lists
+
 #Write a  Python program to find common items in two lists.
 # Define a tuple 'color1' containing color names
 color1 = "Red", "Green", "Orange", "White"
