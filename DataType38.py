@@ -1,4 +1,5 @@
 #Python: Change the position of every n-th value with the (n+1)th in a list
+
 #Write a  Python program to change the position of every n-th value to the (n+1)th in a list.
 # Import the 'zip_longest,' 'chain,' and 'tee' functions from the 'itertools' module
 from itertools import zip_longest, chain, tee
