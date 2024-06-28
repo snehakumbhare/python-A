@@ -1,4 +1,5 @@
 #Python: Split a list based on first character of word
+
 #Write a  Python program to split a list based on the first character of a word.
 # Import the 'groupby' function from the 'itertools' module and the 'itemgetter' function from the 'operator' module
 from itertools import groupby
