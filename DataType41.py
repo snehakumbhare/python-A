@@ -1,4 +1,5 @@
 #Python: Create multiple lists
+
 #Write a  Python program to create multiple lists.
 #Create an empty dictionary named 'obj'
 obj = {}
