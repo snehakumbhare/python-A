@@ -1,6 +1,7 @@
 #Python: Find missing and additional values in two lists
 
 #Write a  Python program to find missing and additional values in two lists.
+
 # Define two lists 'list1' and 'list2' containing elements
 list1 = ['a', 'b', 'c', 'd', 'e', 'f']
 list2 = ['d', 'e', 'f', 'g', 'h']
