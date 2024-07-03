@@ -1,4 +1,5 @@
 #Python: Split a list into different variables
+
 #Write a  Python program to split a list into different variables.
 # Define a list 'color' containing tuples, where each tuple represents a color with its name, hexadecimal code, and RGB value
 color = [
