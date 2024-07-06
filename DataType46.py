@@ -1,4 +1,5 @@
 #Python: Select the odd items of a list
+
 #Write a  Python program to select the odd items from a list.
 # Define a list 'x' containing numeric elements from 1 to 9
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9]
