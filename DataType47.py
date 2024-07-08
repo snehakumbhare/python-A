@@ -1,6 +1,7 @@
 #Python: Insert an element before each element of a list
 
 #Write a Python program to insert an element before each element of a list.
+
 # Define a list 'color' containing color names
 color = ['Red', 'Green', 'Black']
 
