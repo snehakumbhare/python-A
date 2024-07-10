@@ -1,4 +1,5 @@
 #Python: Print a nested lists using the print() function
+
 #Write a Python program to print nested lists (each list on a new line) using the print() function.
 # Define a list 'colors' containing sublists, each with a single color name
 colors = [['Red'], ['Green'], ['Black']]
