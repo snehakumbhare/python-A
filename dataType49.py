@@ -1,4 +1,5 @@
 #Python: Convert list to list of dictionaries
+
 #Write a  Python program to convert a list to a list of dictionaries.
 # Define a list 'color_name' containing color names
 color_name = ["Black", "Red", "Maroon", "Yellow"]
