@@ -1,6 +1,7 @@
 #Python: Split a list every Nth element
 
 #Write a  Python program to split a list every Nth element.
+
 # Define a list 'C' containing alphabetic characters from 'a' to 'n'
 C = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n']
 
