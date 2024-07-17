@@ -1,4 +1,5 @@
 #Python: Create a list with infinite elements
+
 #Write a  Python program to create a list with infinite elements.
 # Import the 'itertools' module to work with iterators and generators
 import itertools
