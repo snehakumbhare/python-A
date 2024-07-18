@@ -1,4 +1,5 @@
 #Python: Concatenate elements of a list
+
 #Write a Python program to concatenate elements of a list.
 # Define a list 'color' containing color names as strings
 color = ['red', 'green', 'orange']
