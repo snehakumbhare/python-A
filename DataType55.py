@@ -1,6 +1,7 @@
 #Python: Remove key values pairs from a list of dictionaries
 
 #Write a  Python program to remove  key-value pairs from a list of dictionaries.
+
 # Define a list 'original_list' containing dictionaries, where each dictionary has 'key1' and 'key2' as keys with corresponding values
 original_list = [{'key1': 'value1', 'key2': 'value2'}, {'key1': 'value3', 'key2': 'value4'}]
 
