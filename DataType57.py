@@ -1,4 +1,5 @@
 #Python: Check whether all items of a list is equal to a given string
+
 #Write a Python program to check if all items in a given list of strings are equal to a given string.
 # Define a list 'color1' containing color names
 color1 = ["green", "orange", "black", "white"]
