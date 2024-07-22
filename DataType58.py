@@ -1,4 +1,5 @@
 #Python: Replace the last element in a list with another list
+
 #Write a  Python program to replace the last element in a list with another list.
 # Define two lists 'num1' and 'num2' containing integers
 num1 = [1, 3, 5, 7, 9, 10]
