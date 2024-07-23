@@ -1,6 +1,7 @@
 #Python: Check whether the n-th element exists in a given list
 
 #Write a Python program to check whether the n-th element exists in a given list.
+
 # Define a list 'x' containing integers
 x = [1, 2, 3, 4, 5, 6]
 
