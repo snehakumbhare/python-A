@@ -1,4 +1,5 @@
 #Python: Find a tuple, the smallest second index value from a list of tuples
+
 #Write a  Python program to find a tuple, the smallest second index value from a list of tuples.
 # Define a list 'x' containing tuples, where each tuple has two elements
 x = [(4, 1), (1, 2), (6, 0)]
