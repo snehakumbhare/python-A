@@ -1,4 +1,5 @@
 #Python: Print a list of space-separated elements
+
 #Write a  Python program to print a list of space-separated elements.
 # Define a list 'num' containing integers
 num = [1, 2, 3, 4, 5]
