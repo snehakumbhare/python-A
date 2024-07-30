@@ -5,7 +5,8 @@
 # Define a list 'num' containing integers
 num = [1, 2, 3, 4]
 
-# Use a list comprehension to create a new list of strings, where each string is formed by appending the index (formatted as a string) to the string 'emp'
+# Use a list comprehension to create a new list of strings, where each string is formed
+#by appending the index (formatted as a string) to the string 'emp'
 
 # This effectively generates a list of strings with elements like 'emp1', 'emp2', 'emp3', 'emp4'
 new_list = ['emp{0}'.format(i) for i in num]
