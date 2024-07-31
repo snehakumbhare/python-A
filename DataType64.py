@@ -1,4 +1,5 @@
 #Python: Iterate over two lists simultaneously
+
 #Write a Python program to iterate over two lists simultaneously.
 # Define two lists 'num' and 'color' containing integers and color names, respectively
 num = [1, 2, 3]
