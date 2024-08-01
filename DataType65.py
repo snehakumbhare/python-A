@@ -1,6 +1,7 @@
 #Python: Move all zero digits to end of a given list of numbers
 
 #Write a  Python program to move all zero digits to the end of a given list of numbers.
+
 # Define a function 'test' that takes a list 'lst' as an argument
 def test(lst):
     # Sort the list 'lst' based on the key provided by the lambda function
