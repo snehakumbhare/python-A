@@ -1,6 +1,7 @@
 #Python: Find all the values in a list are greater than a specified number
 
 #Write a  Python program to find all the values in a list that are greater than a specified number.
+
 # Define two lists, 'list1' and 'list2', containing integers
 list1 = [220, 330, 500]
 list2 = [12, 17, 21]
