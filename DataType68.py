@@ -1,6 +1,7 @@
 #Python: Extend a list without append
 
 #Write a Python program to extend a list without appending.
+
 # Define two lists, 'x' and 'y', containing integers
 x = [10, 20, 30]
 y = [40, 50, 60]
