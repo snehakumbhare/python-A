@@ -1,4 +1,5 @@
 #Python: Remove duplicates from a list of lists
+
 #Write a  Python program to remove duplicates from a list of lists.
 # Import the 'itertools' module for working with iterators and grouping
 import itertools
