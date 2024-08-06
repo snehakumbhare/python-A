@@ -1,4 +1,5 @@
 #Python: Find the items start with specific character from a given list
+
 #Write a  Python program to find items starting with a specific character from a list.
 # Define a function 'test' that takes a list 'lst' and a character 'char' as arguments
 def test(lst, char):
