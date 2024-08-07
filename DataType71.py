@@ -1,6 +1,7 @@
 #Python: Check whether all dictionaries in a list are empty or not
 
 #Write a  Python program to check whether all dictionaries in a list are empty or not
+
 # Define a list 'my_list' containing three empty dictionaries
 my_list = [{}, {}, {}]
 
