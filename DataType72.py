@@ -1,4 +1,5 @@
 #Python: Flatten a given nested list structure
+
 #Write a Python program to flatten a given nested list structure.
 # Define a function 'flatten_list' that takes a nested list 'n_list' as input
 def flatten_list(n_list):
