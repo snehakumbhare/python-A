@@ -1,4 +1,5 @@
 #Python: Remove consecutive duplicates of a given list
+
 #Write a  Python program to remove consecutive (following each other continuously) 
 # duplicates (elements) from a given list.
 # Import the 'groupby' function from the 'itertools' module
