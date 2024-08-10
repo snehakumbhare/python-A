@@ -1,6 +1,7 @@
 #Python: Pack consecutive duplicates of a given list elements into sublists
 
 #Write a  Python program to pack consecutive duplicates of a given list of elements into sublists.
+
 # Import the 'groupby' function from the 'itertools' module
 from itertools import groupby
 
