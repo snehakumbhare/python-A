@@ -1,6 +1,7 @@
 #Python: Create a list reflecting the run-length encoding from a list
 
-#Write a  Python program to create a list reflecting the run-length encoding from a given list of integers or a given list of characters.
+#Write a  Python program to create a list reflecting the run-length encoding from a 
+#given list of integers or a given list of characters.
 # Import the 'groupby' function from the 'itertools' module
 from itertools import groupby
 
