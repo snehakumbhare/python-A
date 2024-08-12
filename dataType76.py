@@ -2,6 +2,7 @@
 
 #Write a  Python program to create a list reflecting the modified run-length
 #encoding from a given list of integers or a given list of characters.
+
 # Import the 'groupby' function from the 'itertools' module
 from itertools import groupby
 
