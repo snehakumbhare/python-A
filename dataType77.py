@@ -1,4 +1,5 @@
 #Python: Decode a run-length encoded given list
+
 #Write a  Python program to decode a run-length message.
 # Define a function 'decode' that takes a list 'alist' as input
 def decode(alist):
