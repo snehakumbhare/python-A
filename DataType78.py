@@ -2,6 +2,7 @@
 
 #Write a  Python program to split a given list into two parts 
 #where the length of the first part of the list is given.
+
 # Define a function 'split_two_parts' that takes a list 'n_list' and an integer 'L' as input
 def split_two_parts(n_list, L):
     # Return two parts of the input list: the first 'L' elements and the rest of the list
