@@ -1,4 +1,5 @@
 #Python: Remove the K'th element from a given list, print the new list
+
 #Write a  Python program to remove the K'th element from a given list, and print the updated list
 # Define a function 'remove_kth_element' that takes a list 'n_list' and an integer 'L' as input
 def remove_kth_element(n_list, L):
