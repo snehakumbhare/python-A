@@ -1,4 +1,5 @@
 #Python: Extract a given number of randomly selected elements from a given list
+
 #Write a  Python program to extract a given number of randomly selected elements from a given list.
 # Import the 'random' module to generate random numbers
 import random
