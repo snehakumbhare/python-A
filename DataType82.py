@@ -1,6 +1,7 @@
 #Python: Generate the combinations of n distinct objects taken from a list
 
 #Write a  Python program to generate combinations of n distinct objects taken from the elements of a given list.
+
 # Define a function 'combination' that generates combinations of 'n' distinct objects from 'n_list'
 def combination(n, n_list):
     # Base case: If 'n' is less than or equal to 0, yield an empty list and return
