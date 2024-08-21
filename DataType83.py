@@ -1,5 +1,7 @@
-#Python: Round every number of a given list of numbers and print the total sum multiplied by the length of the list
-#Write a  Python program to round every number in a given list of numbers and print the total sum multiplied by the length of the list.
+#Python: Round every number of a given list of numbers and print the total 
+#sum multiplied by the length of the list
+#Write a  Python program to round every number in a given list of numbers and
+#print the total sum multiplied by the length of the list.
 # Create a list 'nums' containing floating-point numbers
 nums = [22.4, 4.0, -16.22, -9.10, 11.00, -12.22, 14.20, -5.20, 17.50]
 
