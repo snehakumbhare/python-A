@@ -1,4 +1,5 @@
 #Python: Round the numbers of a given list, print the minimum and maximum numbers and multiply the numbers by 5
+
 #Write a  Python program to round the numbers in a given list, print the minimum and maximum numbers and multiply the numbers by 5. 
 #Print the unique numbers in ascending order separated by space.
 # Create a list 'nums' containing floating-point numbers
