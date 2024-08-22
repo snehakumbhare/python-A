@@ -2,6 +2,7 @@
 
 #Write a  Python program to round the numbers in a given list, print the minimum and maximum numbers and multiply the numbers by 5. 
 #Print the unique numbers in ascending order separated by space.
+
 # Create a list 'nums' containing floating-point numbers
 nums = [22.4, 4.0, 16.22, 9.10, 11.00, 12.22, 14.20, 5.20, 17.50]
 
