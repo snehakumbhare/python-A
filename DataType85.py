@@ -1,6 +1,7 @@
 #Python: Create a multidimensional list with zeros
 
 #Write a  Python program to create a multidimensional list (lists of lists) with zeros.
+
 # Create an empty multidimensional list 'nums'
 nums = []
 
