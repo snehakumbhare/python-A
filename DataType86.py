@@ -1,4 +1,5 @@
 #Python: Create a 3X3 grid with numbers
+
 #Write a  Python program to create a 3X3 grid with numbers.
 nums = []
 for i in range(3):
