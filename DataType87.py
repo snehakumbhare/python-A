@@ -2,6 +2,7 @@
 
 #Write a  Python program to read a matrix from the console and print the sum for each column. 
 #As input from the user, accept matrix rows, columns, and elements separated by a space (each row).
+
 # Prompt the user to input the number of rows for the matrix
 rows = int(input("Input rows: "))
 
