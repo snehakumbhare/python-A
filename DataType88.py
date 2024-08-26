@@ -2,6 +2,7 @@
 
 #Write a  Python program to read a square matrix from the console and print the sum of the matrix's primary diagonal. 
 #Accept the size of the square matrix and elements for each column separated with a space (for every row) as input from the user.
+
 # Prompt the user to input the size of the square matrix
 size = int(input("Input the size of the matrix: "))
 
