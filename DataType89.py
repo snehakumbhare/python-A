@@ -1,6 +1,7 @@
 #Python: Zip two given lists of lists
 
 #Write a  Python program to Zip two given lists of lists.
+
 # Create two lists 'list1' and 'list2' containing sublists of numbers
 list1 = [[1, 3], [5, 7], [9, 11]]
 list2 = [[2, 4], [6, 8], [10, 12, 14]]
