@@ -1,4 +1,5 @@
 #Python: Count number of lists in a given list of lists
+
 #Write a  Python program to count the number of lists in a given list of lists.
 # Define a function 'count_list' that calculates the number of lists in the input list
 def count_list(input_list):
