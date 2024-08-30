@@ -2,7 +2,8 @@
 
 #Write a  Python program to find a list with maximum and minimum lengths.
 
-# Define a function 'max_length_list' that finds the maximum length and the list with the maximum length in 'input_list'
+# Define a function 'max_length_list' that finds the maximum length 
+#and the list with the maximum length in 'input_list'
 def max_length_list(input_list):
     # Find the maximum length of lists in 'input_list'
     max_length = max(len(x) for x in input_list)
