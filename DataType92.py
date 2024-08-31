@@ -1,6 +1,7 @@
 #Python: Check if a nested list is a subset of another nested list
 
 #Write a  Python program to check if a nested list is a subset of another nested list.
+
 # Define a function 'checkSubset' that checks if all elements of 'input_list2' are contained in 'input_list1'
 def checkSubset(input_list1, input_list2):
     return all(map(input_list1.__contains__, input_list2))
