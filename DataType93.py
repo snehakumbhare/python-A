@@ -1,6 +1,7 @@
 #Python: Count the number of sublists contain a particular element
 
 #Write a  Python program to count the number of sublists that contain a particular element.
+
 # Define a function 'count_element_in_list' that counts the occurrences of element 'x' in 'input_list'
 def count_element_in_list(input_list, x):
     ctr = 0
