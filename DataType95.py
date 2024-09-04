@@ -1,4 +1,5 @@
 #Python: Sort each sublist of strings in a given list of lists
+
 #Write a Python program to sort each sublist of strings in a given list of lists.
 # Define a function 'sort_sublists' that sorts each sublist in 'input_list'
 def sort_sublists(input_list):
