@@ -2,6 +2,7 @@
 
 #Write a Python program to remove sublists from a given list of lists
 #that contain an element outside a given range.
+
 # Define a function 'remove_list_range' that removes sublists
 #from 'input_list' based on specified range criteria
 
