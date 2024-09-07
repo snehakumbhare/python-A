@@ -1,4 +1,5 @@
 #Python: Scramble the letters of string in a given list
+
 #Write a  Python program to scramble the letters of a string in a given list.
 # Import the 'shuffle' function from the 'random' module
 from random import shuffle
