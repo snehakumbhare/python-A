@@ -1,4 +1,5 @@
 #Python: Find the maximum and minimum values in a given heterogeneous list
+
 #Write a Python program to find the maximum and minimum values in a given heterogeneous list.
 # Define a function 'max_min_val' that finds the maximum and minimum integer values in a list
 def max_min_val(list_val):
