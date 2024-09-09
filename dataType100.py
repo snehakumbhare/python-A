@@ -1,4 +1,5 @@
 #Python: Common index elements from more than one list
+
 #Write a  Python program to extract common index elements from more than one given list.
 # Define a function 'extract_index_ele' that finds common elements at the same index in three lists
 def extract_index_ele(l1, l2, l3):
