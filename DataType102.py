@@ -1,4 +1,5 @@
 #Python: Extract specified size of strings from a give list of string values
+
 #Write a  Python program to extract specified size of strings from a give list of string values.
 # Define a function 'extract_string' that extracts strings of a specified length from a list
 def extract_string(str_list1, l):
