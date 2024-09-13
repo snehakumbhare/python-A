@@ -6,7 +6,8 @@
 # Import the 'groupby' function from the 'itertools' module
 from itertools import groupby
 
-# Define a function 'extract_elements' that extracts elements from a list that follow each other continuously and occur 'n' times
+# Define a function 'extract_elements' that extracts elements from a list that follow 
+#each other continuously and occur 'n' times
 def extract_elements(nums, n):
     # Use a list comprehension and 'groupby' to filter elements in 'nums' that occur 'n' times in a row
     result = [i for i, j in groupby(nums) if len(list(j)) == n]
