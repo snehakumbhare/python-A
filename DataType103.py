@@ -1,6 +1,7 @@
 #Python: Extract specified number of elements from a given list, which follows each other continuously
 
 #Write a  Python program to extract specified number of elements from a given list, which follows each other continuously.
+
 # Import the 'groupby' function from the 'itertools' module
 from itertools import groupby
 
