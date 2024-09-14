@@ -1,6 +1,7 @@
 #Python: Find the difference between consecutive numbers in a given list
 
 #Write a Python program to find the difference between consecutive numbers in a given list.
+
 # Define a function 'diff_consecutive_nums' that calculates the differences between consecutive numbers in a list
 def diff_consecutive_nums(nums):
     # Use a list comprehension and the 'zip' function to calculate differences between consecutive numbers
