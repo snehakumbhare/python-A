@@ -1,6 +1,7 @@
 #Python: Compute average of two given lists
 
 #Write a  Python program to compute average of two given lists.
+
 # Define a function 'average_two_lists' that calculates the average of two lists
 def average_two_lists(nums1, nums2):
     # Calculate the average by summing the elements of both lists and dividing by their combined length
