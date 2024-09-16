@@ -1,6 +1,7 @@
 #Python: Count integer in a given mixed list
 
 #Write a  Python program to count integers in a given mixed list.
+
 # Define a function 'count_integer' that counts the number of integers in a list
 def count_integer(list1):
     # Initialize a counter 'ctr' to 0
