@@ -1,6 +1,7 @@
 #Python: Remove a specified column from a given nested list
 
-#Write a  Python program to remove a specified column from a given nested list.
+#Write a  Python program to remove a specified column from a given nested list. 
+
 # Define a function 'remove_column' that removes a specified column from a nested list
 def remove_column(nums, n):
    # Iterate through the sublists in 'nums'
