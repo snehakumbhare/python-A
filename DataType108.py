@@ -1,4 +1,5 @@
 #Python: Extract a specified column from a given nested list
+
 #Write a  Python program to extract a specified column from a given nested list.
 # Define a function 'remove_column' that extracts and removes a specified column from a nested list
 def remove_column(nums, n):
