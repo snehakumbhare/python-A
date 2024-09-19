@@ -1,4 +1,5 @@
 #Python: Rotate a given list by specified number of items to the right or left direction
+
 #Write a  Python program to rotate a given list by a specified number of items in the right or left direction.
 # Create a list 'nums1' with integers from 1 to 10
 nums1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
