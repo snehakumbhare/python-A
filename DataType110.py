@@ -1,6 +1,7 @@
 #Python: Find the item with maximum occurrences in a given list
 
 #Write a  Python program to find the item with the most occurrences in a given list.
+
 # Define a function 'max_occurrences' that finds the item with the maximum occurrences in a list
 def max_occurrences(nums):
     # Initialize 'max_val' to 0 and 'result' to the first item in the list
