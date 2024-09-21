@@ -1,4 +1,5 @@
 #Python: Access multiple elements of specified index from a given list
+
 #Write a  Python program to access multiple elements at a specified index from a given list.
 # Define a function 'access_elements' that extracts elements from a list based on their indices
 def access_elements(nums, list_index):
