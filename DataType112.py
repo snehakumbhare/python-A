@@ -1,6 +1,7 @@
 #Python: Check whether a specified list is sorted or not
 
 #Write a  Python program to check whether a specified list is sorted or not.
+
 # Define a function 'is_sort_list' that checks if a list is sorted in ascending order
 def is_sort_list(nums):
     # Use the 'all' function and a generator expression to check if all elements in the list are in non-decreasing order
