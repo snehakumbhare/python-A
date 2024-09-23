@@ -1,6 +1,7 @@
 #Python: Remove duplicate dictionary from a given list
 
 #Write a  Python program to remove duplicate dictionary entries from a given list.
+
 # Define a function 'remove_duplicate_dictionary' that removes duplicate dictionaries from a list
 def remove_duplicate_dictionary(list_color):
     # Use a set comprehension to convert each dictionary in the list to a tuple and remove duplicates
