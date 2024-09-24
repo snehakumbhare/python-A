@@ -1,4 +1,5 @@
 #Python: Extract the nth element from a given list of tuples
+
 #Write a  Python program to extract the nth element from a given list of tuples.
 # Define a function 'extract_nth_element' that extracts the nth element from each tuple in a list
 def extract_nth_element(test_list, n):
