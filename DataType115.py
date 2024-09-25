@@ -1,6 +1,7 @@
 #Python: Check if the elements of a given list are unique or not
 
 #Write a Python program to check if the elements of a given list are unique or not.
+
 # Define a function 'all_unique' that checks if all elements in a list are unique
 def all_unique(test_list):
     # Check if the length of the list is greater than the length of the set of the list
