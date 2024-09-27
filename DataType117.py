@@ -1,4 +1,5 @@
 #Python: Remove all elements from a given list present in another list
+
 #Write a  Python program to remove all elements from a given list that are present in another list.
 # Define a function 'index_on_inner_list' that removes elements from list1 that are also in list2
 def index_on_inner_list(list1, list2):
