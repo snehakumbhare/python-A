@@ -1,4 +1,5 @@
 #Python: Find the difference between elements (n+1th – nth) of a given list of numeric values
+
 #Write a  Python program to find the difference between elements (n+1th – nth) of a given list of numeric values.
 # Define a function 'elements_difference' that calculates the differences between adjacent elements in a list
 def elements_difference(nums):
