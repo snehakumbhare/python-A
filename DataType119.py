@@ -1,6 +1,7 @@
 #Python: Check if a substring presents in a given list of string values
 
 #Write a  Python program to check if a substring appears in a given list of string values.
+
 # Define a function 'find_substring' that checks if a substring is present in any of the strings in a list
 def find_substring(str1, sub_str):
     # Use a generator expression and 'any' to check if 'sub_str' is in any of the strings in 'str1'
