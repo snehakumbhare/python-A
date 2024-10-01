@@ -1,4 +1,5 @@
 #Python: Create a list taking alternate elements from a given list
+
 #Write a  Python program to create a list taking alternate elements from a given list.
 # Define a function 'alternate_elements' that returns a list of alternate elements from the input list
 def alternate_elements(list_data):
