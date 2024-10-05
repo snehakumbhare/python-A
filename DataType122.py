@@ -1,4 +1,5 @@
 #Python: Find common element(s) in a given nested lists
+
 #Write a Python program to find common elements in a nested list.
 # Define a function 'common_in_nested_lists' that finds common elements in nested lists
 def common_in_nested_lists(nested_list):
