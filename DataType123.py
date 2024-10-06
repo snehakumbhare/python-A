@@ -1,6 +1,7 @@
 #Python: Reverse strings in a given list of string values
 
 #Write a  Python program to reverse strings in a given list of string values.
+
 # Define a function 'reverse_strings_list' that reverses the strings in a list
 def reverse_strings_list(string_list):
     # Use list comprehension to reverse each string in 'string_list'
