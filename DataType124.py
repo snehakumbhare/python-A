@@ -1,6 +1,7 @@
 #Python: Find the maximum and minimum product from the pairs of tuple within a given list
 
 #Write a Python program to find the maximum and minimum product of pairs of tuples within a given list.
+
 # Define a function 'tuple_max_val' that finds the maximum and minimum product of pairs in a list of tuples
 def tuple_max_val(nums):
     # Calculate the maximum product using list comprehension with abs
