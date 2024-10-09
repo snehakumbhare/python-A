@@ -1,4 +1,5 @@
 #Python: Calculate the product of the unique numbers of a given list
+
 #Write a  Python program to calculate the product of the unique numbers in a given list.
 # Define a function 'unique_product' that calculates the product of unique elements in a list
 def unique_product(list_data):
