@@ -1,6 +1,7 @@
 #Python: Remove words from a given list of strings containing a character or string
 
 #Write a  Python program to remove words from a given list of strings containing a character or string.
+
 # Define a function 'remove_words' that removes specific words from a list of strings
 def remove_words(in_list, char_list):
     # Initialize an empty list to store the modified strings
