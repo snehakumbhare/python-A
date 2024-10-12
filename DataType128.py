@@ -1,6 +1,7 @@
 #Python: Sum of the numbers in a list between the indices of a specified range
 
 #Write a  Python program to calculate the sum of the numbers in a list between the indices of a specified range.
+
 # Define a function 'sum_Range_list' that calculates the sum of a specified range within a list
 def sum_Range_list(nums, m, n):
     # Initialize 'sum_range' to store the sum of the specified range
