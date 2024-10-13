@@ -1,5 +1,7 @@
 #Python: Reverse each list in a given list of lists
+
 #Write a  Python program to reverse each list in a given list of lists.
+
 # Define a function 'reverse_list_lists' that reverses each list within a list of lists
 def reverse_list_lists(nums):
     # Iterate through each sublist 'l' in the 'nums' list
