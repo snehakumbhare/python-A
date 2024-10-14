@@ -1,4 +1,5 @@
 #Python: Count the same pair in three given lists
+
 #Write a Python program to count the same pair in three given lists.
 # Define a function 'count_same_pair' that counts the number of same pairs between three lists
 def count_same_pair(nums1, nums2, nums3):
