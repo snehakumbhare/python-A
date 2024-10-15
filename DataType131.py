@@ -1,4 +1,5 @@
 #Python: Count the frequency of consecutive duplicate elements in a given list of numbers
+
 #Write a  Python program to count the frequency of consecutive duplicate elements in a given list of numbers.
 # Define a function 'count_dups' that counts consecutive duplicate elements and their frequencies
 def count_dups(nums):
