@@ -1,6 +1,7 @@
 #Python: Find all index positions of the maximum and minimum values in a given list
 
 #Write a  Python program to find all index positions of the maximum and minimum values in a given list of numbers.
+
 # Define a function 'position_max_min' that finds the index positions of the maximum and minimum values in a list
 def position_max_min(nums):
     # Find the maximum and minimum values in the 'nums' list
