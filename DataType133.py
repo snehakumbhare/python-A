@@ -1,4 +1,5 @@
 #Python: Check common elements between two given list are in same order or not
+
 #Write a  Python program to check if two lists have the same elements in them in same order or not.
 # Define a function 'same_order' that checks if common elements in two lists are in the same order
 def same_order(l1, l2):
