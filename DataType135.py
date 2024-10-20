@@ -1,6 +1,7 @@
 #Python: Iterate over all pairs of consecutive items in a given list
 
 #Write a Python program to iterate over all pairs of consecutive items in a given list.
+
 # Define a function 'pairwise' that iterates over all pairs of consecutive items in a list
 def pairwise(l1):
     # Create an empty list 'temp' to store the pairs
