@@ -1,6 +1,7 @@
 #Python: Remove duplicate words from a given list of strings
 
 #Write a Python program to remove duplicate words from a given list of strings.
+
 # Define a function 'unique_list' that removes duplicates from a list
 def unique_list(l):
     # Create an empty list 'temp' to store unique elements
