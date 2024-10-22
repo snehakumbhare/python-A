@@ -1,4 +1,5 @@
 #Python: First even and odd number in a given list of numbers
+
 #Write a  Python program to find the first even and odd number in a given list of numbers.
 # Define a function 'first_even_odd' that finds the first even and odd numbers in a list
 def first_even_odd(nums):
