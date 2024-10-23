@@ -1,4 +1,5 @@
 #Python: Sort a given mixed list of integers and strings
+
 #Write a  Python program to sort a given mixed list of integers and strings. Numbers must be sorted before strings.
 # Define a function 'sort_mixed_list' that sorts a mixed list of integers and strings
 def sort_mixed_list(mixed_list):
