@@ -1,6 +1,7 @@
 #Python: Remove the specific item from a given list of lists
 
 #Write a Python program to remove a specific item from a given list of lists.
+
 # Import the 'copy' module
 import copy	
 
