@@ -1,6 +1,7 @@
 #Python: Remove empty lists from a given list of lists
 
 #Write a  Python program to remove empty lists from a given list of lists.
+
 # Create a list 'list1' that contains a mix of empty lists, strings, and sublists
 list1 = [[], [], [], 'Red', 'Green', [1, 2], 'Blue', [], []]
 
