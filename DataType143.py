@@ -1,4 +1,5 @@
 #Python: Frequency of the elements in a given list of lists
+
 #Write a Python program to get the frequency of elements in a given list of lists.
 # Define a function 'count_elements_lists' that counts the frequency of elements in a list of lists
 def count_elements_lists(nums):
