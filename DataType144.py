@@ -1,6 +1,7 @@
 #Python: Extract every first or specified element from a given two-dimensional list
 
 #Write a Python program to extract every first or specified element from a given two-dimensional list.
+
 # Define a function 'specified_element' that extracts elements at a specified index from a list of lists
 def specified_element(nums, N):
     # Use a list comprehension to extract the element at index 'N' from each sub-list
