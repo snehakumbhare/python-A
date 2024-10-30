@@ -1,4 +1,5 @@
 #Python: Generate a number in a specified range except some specific numbers
+
 #Write a  Python program to generate a number in a specified range except for some specific numbers.
 ## Import the 'choice' function from the 'random' module
 from random import choice
