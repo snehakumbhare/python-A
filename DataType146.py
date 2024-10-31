@@ -1,6 +1,7 @@
 #Python: Compute the sum of digits of each number of a given list
 
 #Write a  Python program to compute the sum of digits of each number in a given list.
+
 # Define a function 'sum_of_digits' that calculates the sum of digits in a list of integers
 def sum_of_digits(nums):
     # Use a nested generator expression to iterate over elements in 'nums'
