@@ -1,6 +1,7 @@
 #Python: Interleave two given list into another list randomly
 
 #Write a Python program to combine two lists into another list randomly.
+
 # Import the 'random' module to generate random values
 import random
 
