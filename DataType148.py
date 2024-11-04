@@ -1,6 +1,7 @@
 #Python: Remove specific words from a given list
 
 #Write a  Python program to remove specific words from a given list.
+
 # Define a function 'remove_words' that removes specified words from a list
 def remove_words(list1, remove_words):
     # Iterate through the elements in 'list1'
