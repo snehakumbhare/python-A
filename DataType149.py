@@ -1,4 +1,5 @@
 #Python: All possible combinations of the elements of a given list
+
 #Write a  Python program to get all possible combinations of the elements of a given list.
 # Define a function 'combinations_list' to generate all possible combinations of a list's elements
 def combinations_list(colors):
