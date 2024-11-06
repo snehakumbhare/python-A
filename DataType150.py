@@ -1,6 +1,7 @@
 #Python: Reverse a given list of lists
 
 #Write a  Python program to reverse a given list of lists.
+
 # Define a function called reverse_list_of_lists that takes a single argument 'list1'.
 def reverse_list_of_lists(list1):
     # Use slicing to reverse the order of the elements in the 'list1'.
