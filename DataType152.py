@@ -1,6 +1,7 @@
 #Python: Combine two given sorted lists using heapq module
 
 #Write a  Python program to combine two sorted lists using the heapq module.
+
 # Import the 'merge' function from the 'heapq' module, which is used to merge two sorted lists.
 from heapq import merge
 
