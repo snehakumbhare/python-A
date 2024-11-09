@@ -1,6 +1,7 @@
 #Python: Check if a given element occurs at least n times in a list
 
 #Write a  Python program to check if a given element occurs at least n times in a list.
+
 # Define a function called check_element_in_list that takes three arguments: 'lst' (list), 'x' (element to check), and 'n' (minimum occurrences).
 def check_element_in_list(lst, x, n):
     # Initialize a variable 't' to 0.
