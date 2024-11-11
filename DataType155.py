@@ -1,6 +1,7 @@
 #Python: Add two given lists of different lengths, start from left
 
 #Write a  Python program to add two given lists of different lengths, starting on the left.
+
 # Define a function called elementswise_left_join that takes two lists, 'l1' and 'l2', as input.
 def elementswise_left_join(l1, l2):
     # Calculate the difference in lengths between 'l1' and 'l2' and store it in 'f_len'.
