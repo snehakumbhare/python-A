@@ -1,6 +1,7 @@
 #Python: Find the maximum and minimum values in a given list of tuples
 
 #Write a  Python program to find the maximum and minimum values in a given list of tuples.
+
 # Import the 'itemgetter' function from the 'operator' module.
 from operator import itemgetter
 
