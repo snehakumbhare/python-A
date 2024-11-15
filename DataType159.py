@@ -1,6 +1,7 @@
 #Python: Append the same value /a list multiple times to a list/list-of-lists
 
 #Write a  Python program to append the same value/a list multiple times to a list/list-of-lists.
+
 # Print a message indicating the purpose of the code.
 print("Add a value(7), 5 times, to a list:")
 
