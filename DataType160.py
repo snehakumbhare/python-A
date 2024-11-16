@@ -7,6 +7,7 @@
 
 #Output:
 #[3, 7, 5, 7, 3, 3, 5, 9, 3, 4, 9, 8, 5]
+
 # Define a function called condition_match that checks if a number is even.
 def condition_match(x):
     return ((x % 2) == 0)
