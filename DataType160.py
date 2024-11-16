@@ -4,6 +4,7 @@
 
 #Remove the first 4 number of even numbers from the following list:
 #[3,10,4,7,5,7,8,3,3,4,5,9,3,4,9,8,5]
+
 #Output:
 #[3, 7, 5, 7, 3, 3, 5, 9, 3, 4, 9, 8, 5]
 # Define a function called condition_match that checks if a number is even.
