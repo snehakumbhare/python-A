@@ -1,6 +1,7 @@
 #Python: Remove first specified number of elements from a given list satisfying a condition
 
 #Write a  Python program to remove the first specified number of elements from a given list satisfying a condition.
+
 #Remove the first 4 number of even numbers from the following list:
 #[3,10,4,7,5,7,8,3,3,4,5,9,3,4,9,8,5]
 #Output:
