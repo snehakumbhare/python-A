@@ -3,7 +3,6 @@
 #Write a  Python program to check if a given list increases strictly. Moreover, if removing only one element 
 #from the list results in a strictly increasing list, we still consider the list true.
 
-# Source: https://bit.ly/3qZqcwm
 # Define a function called 'almost_increasing_sequence' that checks if a given sequence is an almost increasing sequence.
 def almost_increasing_sequence(sequence):
     # Check if the length of the sequence is less than 3, and if so, return True.
