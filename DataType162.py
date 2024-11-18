@@ -1,6 +1,7 @@
 #Python: Find the last occurrence of a specified item in a given list
 
 #Write a  Python program to find the last occurrence of a specified item in a given list.
+
 # Define a function called 'last_occurrence' that finds the last occurrence of a character 'ch' in a list of characters 'l1'.
 def last_occurrence(l1, ch):
     # Join the list of characters into a single string and find the last index of the character 'ch'.
