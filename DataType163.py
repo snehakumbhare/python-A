@@ -1,4 +1,5 @@
 #Python: Index of the first element which is greater than a specified element
+
 #Write a  Python program to get the index of the first element that is greater than a specified element.
 # Define a function called 'first_index' that finds the index of the first element in a list 'l1' greater than a given number 'n'.
 def first_index(l1, n):
