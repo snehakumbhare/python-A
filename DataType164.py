@@ -1,4 +1,5 @@
 #Python: Get the items from a given list with specific condition
+
 #Write a Python program to get items from a given list with specific conditions.
 
 #Number of Items of the following list which are even and greater than 73
