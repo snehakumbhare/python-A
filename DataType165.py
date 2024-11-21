@@ -1,6 +1,7 @@
 #Python: Split a given list into specified sized chunks
 
 #Write a  Python program to split a given list into specified-sized chunks.
+
 # Define a function to split a list into equal-sized sublists of length 'n'
 def split_list(lst, n):
     # Use list comprehension to create sublists of length 'n'
