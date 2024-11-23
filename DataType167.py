@@ -2,7 +2,8 @@
 
 #Write a  Python program to convert a given list of strings into a list of lists.
 
-# Define a function called 'strings_to_listOflists' that converts a list of strings into a list of lists, where each character of a string is a separate element in a sublist.
+# Define a function called 'strings_to_listOflists' that converts a list of strings into a list of lists, 
+#where each character of a string is a separate element in a sublist.
 def strings_to_listOflists(colors):
     # Use a list comprehension to create a new list 'result' where each string is converted into a list of its characters.
     result = [list(word) for word in colors]
