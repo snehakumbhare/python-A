@@ -1,4 +1,5 @@
 #Python: Display each element vertically of a given list, list of lists
+
 #Write a  Python program to display vertically each element of a given list, list of lists.
 # Create a list 'text' containing string elements.
 text = ["a", "b", "c", "d", "e", "f"]
