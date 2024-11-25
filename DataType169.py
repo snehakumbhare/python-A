@@ -4,7 +4,8 @@
 
 # Define a function called 'l_strs_to_l_chars' that converts a list of strings and characters into a single list of characters.
 def l_strs_to_l_chars(lst):
-    # Use a nested list comprehension to create a new list 'result' where each character of the input elements is a separate element in the list.
+    # Use a nested list comprehension to create a new list 'result' where each character of the
+    #input elements is a separate element in the list.
     result = [i for element in lst for i in element]
     return result
 
