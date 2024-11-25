@@ -1,4 +1,5 @@
 #Python: Convert a given list of strings and characters to a single list of characters
+
 #Write a  Python program to convert a given list of strings and characters to a single list of characters.
 # Define a function called 'l_strs_to_l_chars' that converts a list of strings and characters into a single list of characters.
 def l_strs_to_l_chars(lst):
