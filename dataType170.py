@@ -1,4 +1,5 @@
 #Python: Insert an element in a given list after every nth position
+
 #Write a  Python program to insert an element in a given list after every nth position.
 # Define a function called 'insert_elemnt_nth' that inserts an element 'ele' into a list 'lst' after every 'n' elements.
 def insert_elemnt_nth(lst, ele, n):
