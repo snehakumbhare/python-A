@@ -1,6 +1,7 @@
 #Python: Concatenate element-wise three given lists
 
 #Write a  Python program to concatenate element-wise three given lists.
+
 # Define a function called 'concatenate_lists' that concatenates elements from three lists 'l1', 'l2', and 'l3' element-wise.
 def concatenate_lists(l1, l2, l3):
     # Use a list comprehension with 'zip' to concatenate elements from each of the input lists.
