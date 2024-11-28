@@ -1,4 +1,5 @@
 #Python: Remove the last N number of elements from a given list
+
 #Write a  Python program to remove the last N number of elements from a given list.
 # Define a function called 'remove_last_n' that removes the last 'N' elements from a list 'nums'.
 def remove_last_n(nums, N):
