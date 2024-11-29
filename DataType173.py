@@ -19,7 +19,8 @@ chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 print("Original list:")
 print(chars)
 
-# Set the values 'merge_from' to 2 and 'merge_to' to 4, and print a message indicating the intention to merge items from index 'merge_from' to 'merge_to' in the list.
+# Set the values 'merge_from' to 2 and 'merge_to' to 4, and print a message indicating the 
+#intention to merge items from index 'merge_from' to 'merge_to' in the list.
 merge_from = 2
 merge_to = 4
 print("\nMerge items from", merge_from, "to", merge_to, "in the said List:")
