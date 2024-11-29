@@ -1,4 +1,5 @@
 #Python: Merge some list items in given list using index value
+
 #Write a  Python program to merge some list items in a given list using the index value.
 # Define a function called 'merge_some_chars' that merges characters in a list 'lst' from index 'merge_from' to 'merge_to'.
 def merge_some_chars(lst, merge_from, merge_to):
