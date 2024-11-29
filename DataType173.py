@@ -7,7 +7,8 @@
 def merge_some_chars(lst, merge_from, merge_to):
     # Create a new list 'result' as a reference to the input list 'lst'.
     result = lst
-    # Join the characters from index 'merge_from' to 'merge_to' into a single string and replace the corresponding slice in 'result' with the merged string.
+    # Join the characters from index 'merge_from' to 'merge_to' into a single 
+    #string and replace the corresponding slice in 'result' with the merged string.
     result[merge_from:merge_to] = [''.join(result[merge_from:merge_to])]
     return result
 
