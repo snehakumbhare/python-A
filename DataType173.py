@@ -31,7 +31,8 @@ print(merge_some_chars(chars, merge_from, merge_to))
 # Create a new list 'chars' with the same elements.
 chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 
-# Set the values 'merge_from' to 3 and 'merge_to' to 7, and print a message indicating the intention to merge items from index 'merge_from' to 'merge_to' in the list.
+# Set the values 'merge_from' to 3 and 'merge_to' to 7, and print a message indicating the intention 
+#to merge items from index 'merge_from' to 'merge_to' in the list.
 merge_from = 3
 merge_to = 7
 print("\nMerge items from", merge_from, "to", merge_to, "in the said List:")
