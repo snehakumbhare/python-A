@@ -1,6 +1,7 @@
 #Python: Add a number to each element in a given list of numbers
 
 #Write a  Python program to add a number to each element in a given list of numbers.
+
 # Define a function called 'add_val_to_list' that adds a value 'add_val' to each element in a list 'lst'.
 def add_val_to_list(lst, add_val):
     # Create a new list 'result' as a reference to the input list 'lst'.
