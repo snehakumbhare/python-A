@@ -1,6 +1,7 @@
 #Python: Find the minimum, maximum value for each tuple position in a given list of tuples
 
 #Write a  Python program to find the minimum and maximum value for each tuple position in a given list of tuples.
+
 # Define a function called 'max_min_list_tuples' that computes the maximum and minimum values for each position in a list of tuples 'nums'.
 def max_min_list_tuples(nums):
     # Use 'zip' to transpose the tuples in 'nums' so that we can work with each position separately.
