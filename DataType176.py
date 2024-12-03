@@ -1,6 +1,7 @@
 #Python: Create a new list dividing two given lists of numbers
 
 #Write a Python program to create a new list by dividing two given lists of numbers.
+
 # Define a function called 'dividing_two_lists' that divides each element of two lists 'l1' and 'l2' element-wise.
 def dividing_two_lists(l1, l2):
     # Use 'zip' to pair elements from 'l1' and 'l2', then use a list comprehension to divide each pair (x, y) and create a new list 'result'.
