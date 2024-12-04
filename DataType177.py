@@ -1,4 +1,5 @@
 #Python: Common elements in a given list of lists
+
 #Write a  Python program to find common elements in a given list of lists.
 # Define a function called 'common_list_of_lists' that finds the common elements among multiple lists 'lst'.
 def common_list_of_lists(lst):
