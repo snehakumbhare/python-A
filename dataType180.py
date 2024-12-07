@@ -1,6 +1,7 @@
 #Python: Create the smallest possible number using the elements of a given list of integers
 
 #Write a  Python program to create the smallest possible number using the elements of a given list of positive integers.
+
 # Define a function 'create_smallest_number' that takes a list 'lst' as input.
 def create_smallest_number(lst):
     # Check if all elements in the list are 0, return '0' if true.
