@@ -1,6 +1,7 @@
 #Python: Calculate the maximum and minimum sum of a sublist in a given list of lists
 
 #Write a  Python program to calculate the maximum and minimum sum of a sublist in a given list of lists.
+
 # Define a function called 'max_min_sublist' that finds the sublist with the maximum and minimum sums in a list of lists.
 def max_min_sublist(lst):
     max_result = (max(lst, key=sum))  # Find the sublist with the maximum sum using the 'max' function and the 'sum' key.
