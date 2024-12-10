@@ -1,6 +1,7 @@
 #Python: Unique values in a given list of lists
 
 #Write a  Python program to get the unique values in a given list of lists.
+
 # Define a function called 'unique_values_in_list_of_lists' that extracts unique values from a list of lists.
 def unique_values_in_list_of_lists(lst):
     result = set(x for l in lst for x in l)  # Flatten the list of lists and create a set to remove duplicates.
