@@ -1,4 +1,5 @@
 #Python: Bigrams of words in a given list of strings
+
 #Write a  Python program to generate Bigrams of words from a given list of strings.
 # Define a function called 'bigram_sequence' that generates bigrams from a list of text sequences.
 def bigram_sequence(text_lst):
