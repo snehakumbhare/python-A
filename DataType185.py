@@ -1,6 +1,7 @@
 #Python: Convert a given decimal number to binary list
 
 #Write a  Python program to convert a given decimal number to a binary list.
+
 # Define a function called 'decimal_to_binary_list' that converts a decimal number to a binary list.
 def decimal_to_binary_list(n):
     result = [int(x) for x in list('{0:0b}'.format(n))]
