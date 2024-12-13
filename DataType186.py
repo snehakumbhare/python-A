@@ -1,6 +1,7 @@
 #Python: Swap two sublists in a given list
 
 #Write a Python program to swap two sublists in a given list.
+
 # Create a list 'nums' containing integer values from 0 to 15.
 nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
