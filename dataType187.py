@@ -1,6 +1,7 @@
 #Python: Convert a given list of tuples to a list of strings
 
 #Write a  Python program to convert a given list of tuples to a list of strings.
+
 # Define a function called 'tuples_to_list_str' that converts a list of tuples to a list of strings.
 def tuples_to_list_str(lst):
     # Iterate through each tuple 'el' in the list 'lst'.
