@@ -1,4 +1,5 @@
 #Python: Shift last element to first position and first element to last position in a list
+
 #Write a  Python program to shift last element to first position and first element to last position in a given list.
 # Define a function called 'shift_first_last' that shifts the first element to the last position and the last element to the first position of a list.
 def shift_first_last(lst):
