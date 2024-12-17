@@ -1,4 +1,5 @@
 #Python: Find the specified number of largest products from two given list, multiplying an element from each list
+
 #Write a  Python program to find the specified number of largest products from two given lists, multiplying an element from each list.
 # Define a function called 'top_product' that returns the N largest products from two lists.
 def top_product(nums1, nums2, N):
