@@ -1,4 +1,5 @@
 #Python: Maximum and minimum value of the three given lists
+
 #Write a  Python program to find the maximum and minimum values of the three given lists.
 # Create three lists 'nums1', 'nums2', and 'nums3' containing integers.
 nums1 = [2, 3, 5, 8, 7, 2, 3]
