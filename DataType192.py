@@ -1,6 +1,7 @@
 #Python: Remove all strings from a given list of tuples
 
 #Write a Python program to remove all strings from a given list of tuples.
+
 # Define a function called 'test' that removes strings from a list of tuples.
 def test(list1):
     # Create a list comprehension that processes each tuple in the input list.
