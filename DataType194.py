@@ -1,6 +1,7 @@
 #Python: Sum two or more lists, the lengths of the lists may be different
 
 #Write a  Python program to sum two or more lists. The lengths of the lists may be different.
+
 # Define a function called 'sum_lists_diff_length' that calculates the sum of lists with different lengths.
 def sum_lists_diff_length(test_list):
     # Create a result list using a list comprehension.
