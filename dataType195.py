@@ -1,4 +1,5 @@
 #Python: Traverse a given list in reverse order, also print the elements with original index
+
 #Write a  Python program to traverse a given list in reverse order, and print the elements with the original index.
 # Create a list called 'color' containing string elements.
 color = ["red", "green", "white", "black"]
