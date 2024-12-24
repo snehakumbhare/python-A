@@ -1,6 +1,7 @@
 #Python: Move a specified element in a given list
 
 #Write a  Python program to move a specified element in a given list.
+
 # Define a function 'group_similar_items' that moves a specified element to the end of a list.
 def group_similar_items(seq, el):
     # Remove the specified element 'el' from the list and append it to the end.
