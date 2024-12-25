@@ -1,4 +1,5 @@
 #Python: Compute the average of nth elements in a given list of lists with different lengths
+
 #Write a Python program to compute the average of the n-th element in a given list of lists with different lengths.
 # Import the 'itertools' module as 'it' for convenience.
 import itertools as it
