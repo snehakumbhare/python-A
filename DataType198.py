@@ -1,6 +1,7 @@
 #Python: Compare two given lists and find the indices of the values present in both lists
 
 #Write a  Python program to compare two given lists and find the indices of the values present in both lists.
+
 # Define a function 'matched_index' that finds the indices of values in 'l1' that are also present in 'l2'.
 def matched_index(l1, l2):
     # Convert 'l2' into a set for faster membership checking.
