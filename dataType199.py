@@ -1,6 +1,7 @@
 #Python: Convert a given unicode list to a list contains strings
 
 #Write a  Python program to convert a Unicode list to a list of strings.
+
 # Define a function 'unicode_to_str' that converts a list of unicode strings to a list of regular strings.
 def unicode_to_str(lst):
     # Use a list comprehension to iterate over each element 'x' in 'lst' and convert it to a regular string using 'str()'.
