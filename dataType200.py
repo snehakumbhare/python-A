@@ -1,4 +1,5 @@
 #Python: Pair up the consecutive elements of a given list
+
 #Write a  Python program to pair consecutive elements of a given list.
 # Define a function 'pair_consecutive_elements' that pairs up consecutive elements in a list.
 def pair_consecutive_elements(lst):
