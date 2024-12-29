@@ -1,4 +1,5 @@
 #Python: Find the indexes of all None items in a given list
+
 #Write a  Python program to find the indexes of all None items in a given list.
 # Define a function 'relative_order' that finds the indexes of all None items in a list.
 def relative_order(lst):
