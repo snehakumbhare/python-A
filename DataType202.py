@@ -1,6 +1,7 @@
 #Python: Join adjacent members of a given list
 
 #Write a  Python program to join adjacent members of a given list.
+
 # Define a function 'test' that joins adjacent members of a given list.
 def test(lst):
     # Use list comprehensions to iterate over the list, taking elements at even and odd positions.
