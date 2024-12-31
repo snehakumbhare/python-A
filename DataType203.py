@@ -1,6 +1,7 @@
 #Python: Check if first digit/character in each element in a given list is same or not
 
 #Write a Python program to check if the first digit or character of each element in a list is the same.
+
 # Define a function 'test' that checks if the first character (or digit) in each element of the given list is the same.
 def test(lst):
     # Use a generator expression with 'all' to check if the first character (or digit) of each element matches the first element.
