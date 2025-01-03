@@ -1,6 +1,7 @@
 #Python: Remove additional spaces in a given list
 
 #Write a  Python program to remove additional spaces from a given list.
+
 # Define a function 'test' that removes additional spaces from the elements of a given list.
 def test(lst):
     # Create an empty list 'result' to store the modified elements.
