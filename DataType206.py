@@ -1,4 +1,5 @@
 #Python: Common tuples between two given lists
+
 #Write a Python program to find the common tuples between two given lists.
 # Define a function 'test' that finds the common tuples between two lists of tuples.
 def test(list1, list2):
