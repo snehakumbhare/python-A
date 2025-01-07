@@ -1,6 +1,7 @@
 #Python: Sum a list of numbers
 
-#Sum a list of numbers. Write a  Python program to sum the first number with the second and divide it by 2, then sum the second with the third and divide by 2, and so on.
+#Sum a list of numbers. Write a  Python program to sum the first number with the second
+#and divide it by 2, then sum the second with the third and divide by 2, and so on.
 #Equation: (element 0 + element 1) / 2, (element 1 + element 2) / 2, ... etc.
 # Define a function 'test' that calculates the average of adjacent elements in a list.
 def test(list1):
