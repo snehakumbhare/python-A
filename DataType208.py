@@ -1,6 +1,7 @@
 #Python: Count the number of groups of non-zero numbers separated by zeros of a given list of numbers
 
 #Write a  Python program to count the number of groups of non-zero numbers separated by zeros in a given list of numbers.
+
 # Define a function 'test' that counts the number of groups of non-zero numbers separated by zeros in a list.
 def test(lst):
     # Initialize variables 'previous_digit' to store the previous digit and 'ctr' to count the groups.
