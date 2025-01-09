@@ -1,4 +1,5 @@
 #Python: Compute the sum of non-zero groups (separated by zeros) of a given list of numbers
+
 #Write a  Python program to compute the sum of non-zero groups (separated by zeros) of a given list of numbers.
 # Define a function 'test' that computes the sum of non-zero groups separated by zeros in a list.
 def test(lst):
