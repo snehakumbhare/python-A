@@ -1,4 +1,5 @@
 #Python: Remove an element from a given list
+
 #Write a  Python program to remove an element from a given list.
 # Create a list 'student' containing mixed data types (strings and integers).
 student = ['Ricky Rivera', 98, 'Math', 90, 'Science']
