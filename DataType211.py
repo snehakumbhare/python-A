@@ -1,6 +1,7 @@
 #Python: Remove all the values except integer values from a given array of mixed values
 
 #Write a  Python program to remove all values except integer values from a given array of mixed values.
+
 # Define a function called 'test' that filters a list to include only integer values.
 def test(lst):
     return [lst for lst in lst if isinstance(lst, int)]
