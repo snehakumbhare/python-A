@@ -4,6 +4,7 @@
 
 #An integer (from the Latin integer meaning "whole") is colloquially defined as a number that can be written without a fractional component. 
 #For example, 21, 4, 0, and −2048 are integers.
+
 # Define a function called 'test' that calculates the sum of the two lowest negative numbers in a list of integers.
 def test(nums):
     # Filter the list to include only negative numbers and sort them in ascending order.
