@@ -1,6 +1,7 @@
 #Python: Sort a given positive number in descending/ascending order
 
 #Write a  Python program to sort a given positive number in descending/ascending order.
+
 # Define a function called 'test_dsc' that takes an integer 'n' and returns the integer formed by its digits sorted in descending order.
 def test_dsc(n):
     # Convert the integer 'n' to a string, sort its characters in descending order, and convert them back to an integer.
