@@ -1,4 +1,5 @@
 #Python: Count of elements in each group from list based groups of elements
+
 #Write a  Python program to group the elements of a list based on the given function and return the count of elements in each group.
 
 #Use collections.defaultdict to initialize a dictionary.
